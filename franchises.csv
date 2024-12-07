@@ -1,0 +1,540 @@
+franchise_id,franchise_name,franchise_url,total_gross,num_movies,average_gross,highest_grossing_movie,Franchise,No. of Movies,Domestic Box Office,Infl. Adj. Dom. Box Office,Worldwide Box Office,First Year,Last Year,No. of Years
+1,Marvel Cinematic Universe,https://www.the-numbers.com/movies/franchise/Marvel-Cinematic-Universe,43,"$12,438,221,724","$14,756,455,925","$31,056,507,006",Marvel Cinematic Universe,45,"$12,436,709,969","$14,754,986,708","$31,040,311,843",2008,2027,19
+2,Star Wars,https://www.the-numbers.com/movies/franchise/Star-Wars,15,"$5,102,241,117","$9,533,071,731","$10,324,484,384",Star Wars,15,"$5,102,241,117","$9,533,071,731","$10,326,240,911",1977,2027,50
+3,James Bond,https://www.the-numbers.com/movies/franchise/James-Bond,27,"$2,297,557,630","$7,188,939,438","$7,878,060,107",James Bond,27,"$2,297,557,630","$7,188,939,438","$7,878,060,107",1963,2021,58
+4,Batman,https://www.the-numbers.com/movies/franchise/Batman,28,"$3,211,917,572","$5,105,997,502","$7,010,200,014",Batman,28,"$3,205,228,285","$5,098,349,237","$6,969,201,092",1966,2026,60
+5,Spider-Man,https://www.the-numbers.com/movies/franchise/Spider-Man,13,"$3,699,796,916","$4,882,977,893","$8,974,837,979",Spider-Man,13,"$3,699,796,916","$4,882,977,893","$8,963,442,726",2002,2025,23
+7,X-Men,https://www.the-numbers.com/movies/franchise/X-Men,14,"$3,095,211,123","$4,071,052,112","$7,413,878,530",X-Men,14,"$3,093,699,368","$4,069,540,357","$7,409,010,636",2000,2024,24
+8,Jurassic Park,https://www.the-numbers.com/movies/franchise/Jurassic-Park,7,"$2,273,634,802","$3,601,633,510","$6,026,384,764",Jurassic Park,7,"$2,273,634,802","$3,600,429,373","$6,026,384,764",1993,2025,32
+9,DC Extended Universe,https://www.the-numbers.com/movies/franchise/DC-Extended-Universe,26,"$2,781,499,251","$3,279,880,993","$7,141,557,870",DC Extended Universe,26,"$2,781,499,251","$3,279,880,993","$7,141,557,870",2013,2023,10
+10,Avengers,https://www.the-numbers.com/movies/franchise/Avengers,6,"$2,619,552,260","$3,244,590,887","$7,707,019,725",Avengers,6,"$2,619,552,260","$3,244,590,887","$7,707,019,725",2012,2027,15
+11,Bambi,https://www.the-numbers.com/movies/franchise/Bambi,2,"$102,797,000","$3,179,143,103","$302,000,000",Bambi,2,"$102,797,000","$3,179,143,103","$302,000,000",1942,2006,64
+12,Star Trek,https://www.the-numbers.com/movies/franchise/Star-Trek,15,"$1,400,952,879","$3,070,403,368","$2,266,907,732",Star Trek,15,"$1,400,952,879","$3,070,403,368","$2,266,907,732",1979,2025,46
+13,Peter Jackson's Lord of the Rings,https://www.the-numbers.com/movies/franchise/Peter-Jacksons-Lord-of-the-Rings,9,"$1,861,604,296","$2,991,648,817","$5,854,662,084",Peter Jackson's Lord of the Rings,9,"$1,861,604,296","$2,991,648,817","$5,854,660,013",2001,2026,25
+14,Fast and the Furious,https://www.the-numbers.com/movies/franchise/Fast-and-the-Furious,12,"$2,009,883,998","$2,687,383,888","$7,321,468,016",Fast and the Furious,12,"$2,009,883,998","$2,687,383,888","$7,321,468,016",2001,2026,25
+15,Indiana Jones,https://www.the-numbers.com/movies/franchise/Indiana-Jones,5,"$1,094,319,743","$2,616,230,380","$2,345,302,461",Indiana Jones,5,"$1,094,319,743","$2,616,230,380","$2,345,302,461",1981,2023,42
+16,Shrek,https://www.the-numbers.com/movies/franchise/Shrek,9,"$1,606,263,228","$2,496,357,425","$4,031,458,435",Shrek,9,"$1,606,263,228","$2,496,101,982","$4,031,458,435",2001,2026,25
+17,Rocky,https://www.the-numbers.com/movies/franchise/Rocky,10,"$948,288,490","$2,451,097,042","$1,933,339,002",Rocky,10,"$948,288,490","$2,451,097,042","$1,933,339,002",1976,2023,47
+18,Superman,https://www.the-numbers.com/movies/franchise/Superman,12,"$1,152,698,852","$2,426,693,258","$2,553,272,239",Superman,12,"$1,152,698,852","$2,426,693,258","$2,553,272,239",1978,2025,47
+19,Transformers,https://www.the-numbers.com/movies/franchise/Transformers,9,"$1,798,797,520","$2,421,048,080","$5,414,101,354",Transformers,10,"$1,792,594,350","$2,414,844,910","$5,396,707,997",1986,2024,38
+20,Despicable Me,https://www.the-numbers.com/movies/franchise/Despicable-Me,10,"$1,952,767,130","$2,319,597,955","$5,614,667,932",Despicable Me,10,"$1,952,767,130","$2,318,896,565","$5,608,593,313",2010,2027,17
+22,Toy Story,https://www.the-numbers.com/movies/franchise/Toy-Story,8,"$1,436,427,934","$2,234,593,152","$3,273,072,806",Toy Story,8,"$1,436,427,934","$2,234,593,152","$3,273,072,806",1995,2026,31
+23,101 Dalmatians,https://www.the-numbers.com/movies/franchise/101-Dalmatians,3,"$356,130,853","$2,206,709,379","$524,444,124",101 Dalmatians,3,"$356,130,853","$2,206,709,379","$524,444,124",1961,2000,39
+24,Hunger Games,https://www.the-numbers.com/movies/franchise/Hunger-Games,6,"$1,617,889,120","$2,086,190,224","$3,304,575,176",Hunger Games,6,"$1,617,889,120","$2,086,190,224","$3,304,575,176",2012,2026,14
+25,Jaws,https://www.the-numbers.com/movies/franchise/Jaws,4,"$442,167,994","$2,067,636,501","$832,424,337",Jaws,4,"$442,167,994","$2,066,927,986","$832,424,337",1975,1987,12
+26,Mission: Impossible,https://www.the-numbers.com/movies/franchise/Mission-Impossible,8,"$1,327,133,487","$2,058,812,848","$4,143,516,803",Mission: Impossible,8,"$1,327,133,487","$2,058,812,848","$4,143,516,803",1996,2025,29
+27,Twilight,https://www.the-numbers.com/movies/franchise/Twilight,6,"$1,365,922,346","$1,906,157,967","$3,312,483,592",Twilight,6,"$1,365,922,346","$1,906,157,967","$3,312,483,592",2008,2012,4
+28,Planet of the Apes,https://www.the-numbers.com/movies/franchise/Planet-of-the-Apes,10,"$964,206,474","$1,791,222,268","$2,511,686,885",Planet of the Apes,10,"$964,206,474","$1,791,222,268","$2,511,686,885",1968,2024,56
+29,Avatar,https://www.the-numbers.com/movies/franchise/Avatar,5,"$1,469,297,416","$1,782,985,061","$5,241,220,412",Avatar,5,"$1,469,297,416","$1,808,086,345","$5,241,220,412",2009,2031,22
+30,Dark Knight Trilogy,https://www.the-numbers.com/movies/franchise/Dark-Knight-Trilogy,3,"$1,187,718,364","$1,753,807,967","$2,446,694,472",Dark Knight Trilogy,3,"$1,187,718,364","$1,752,848,989","$2,446,694,472",2005,2012,7
+31,Peter Pan,https://www.the-numbers.com/movies/franchise/Peter-Pan,7,"$355,579,537","$1,736,996,794","$708,714,979",Peter Pan,7,"$355,579,537","$1,736,996,794","$708,714,979",1953,2023,70
+32,The Lion King,https://www.the-numbers.com/movies/franchise/Lion-King-The,5,"$967,619,269","$1,621,232,411","$2,649,844,129",The Lion King,5,"$967,619,269","$1,621,232,411","$2,649,844,129",1994,2024,30
+33,King Kong,https://www.the-numbers.com/movies/franchise/King-Kong,7,"$750,724,612","$1,618,408,981","$2,235,088,681",King Kong,7,"$750,724,612","$1,618,408,981","$2,235,088,681",1933,2024,91
+34,Exorcist,https://www.the-numbers.com/movies/franchise/Exorcist,8,"$388,583,443","$1,573,946,510","$660,053,927",Exorcist,8,"$388,583,443","$1,573,946,510","$660,053,927",1973,2025,52
+35,Lady and the Tramp,https://www.the-numbers.com/movies/franchise/Lady-and-the-Tramp,2,"$93,600,000","$1,509,516,846","$93,638,184",Lady and the Tramp,2,"$93,600,000","$1,509,516,846","$93,638,184",1955,2001,46
+36,Billy Jack,https://www.the-numbers.com/movies/franchise/Billy-Jack,3,"$223,000,000","$1,476,725,476","$223,000,000",Billy Jack,3,"$223,000,000","$1,476,725,476","$223,000,000",1967,1974,7
+37,Deadpool,https://www.the-numbers.com/movies/franchise/Deadpool,3,"$1,324,408,302","$1,473,313,874","$2,906,210,888",Deadpool,3,"$1,322,896,547","$1,471,802,119","$2,901,342,994",2016,2024,8
+38,Ghostbusters,https://www.the-numbers.com/movies/franchise/Ghostbusters,6,"$726,186,662","$1,453,625,908","$1,144,427,556",Ghostbusters,6,"$726,186,662","$1,453,625,908","$1,144,441,425",1984,2024,40
+39,Iron Man,https://www.the-numbers.com/movies/franchise/Iron-Man,3,"$1,040,029,729","$1,447,502,039","$2,420,665,172",Iron Man,3,"$1,040,029,729","$1,447,502,039","$2,421,720,208",2008,2013,5
+40,Mary Poppins,https://www.the-numbers.com/movies/franchise/Mary-Poppins,2,"$274,230,583","$1,388,744,053","$447,905,601",Mary Poppins,2,"$274,230,583","$1,388,744,053","$447,905,601",1964,2018,54
+41,Godfather,https://www.the-numbers.com/movies/franchise/Godfather,3,"$260,446,056","$1,353,134,933","$394,181,312",Godfather,3,"$260,446,056","$1,353,134,933","$394,181,312",1972,1990,18
+42,Wolverine,https://www.the-numbers.com/movies/franchise/Wolverine,4,"$1,175,462,935","$1,342,998,194","$2,743,385,754",Wolverine,4,"$1,173,951,180","$1,341,486,439","$2,738,517,860",2009,2024,15
+43,Alien,https://www.the-numbers.com/movies/franchise/Alien,9,"$681,424,010","$1,337,578,663","$1,983,755,097",Alien,9,"$681,358,060","$1,337,512,713","$1,975,707,067",1979,2024,45
+44,Sony’s Marvel Universe,https://www.the-numbers.com/movies/franchise/Sonys-Marvel-Universe,11,"$1,246,336,835","$1,334,503,176","$3,114,711,715",Sony’s Marvel Universe,11,"$1,116,511,359","$1,204,677,700","$2,677,373,291",2018,2025,7
+46,Men in Black,https://www.the-numbers.com/movies/franchise/Men-in-Black,5,"$704,184,140","$1,286,184,707","$1,942,133,967",Men in Black,5,"$704,184,140","$1,286,184,707","$1,942,133,967",1997,2019,22
+47,Terminator,https://www.the-numbers.com/movies/franchise/Terminator,6,"$669,177,934","$1,277,423,909","$2,074,449,203",Terminator,6,"$669,177,934","$1,277,423,909","$2,074,449,203",1984,2019,35
+48,Finding Nemo,https://www.the-numbers.com/movies/franchise/Finding-Nemo,2,"$866,824,931","$1,268,633,250","$1,961,100,977",Finding Nemo,2,"$866,824,931","$1,268,633,250","$1,961,100,977",2003,2016,13
+49,Guardians of the Galaxy,https://www.the-numbers.com/movies/franchise/Guardians-of-the-Galaxy,4,"$1,082,523,028","$1,267,706,300","$2,485,439,102",Guardians of the Galaxy,4,"$1,082,523,028","$1,267,706,300","$2,485,439,102",2014,2023,9
+50,Beverly Hills Cop,https://www.the-numbers.com/movies/franchise/Beverly-Hills-Cop,4,"$431,012,375","$1,266,895,515","$712,145,974",Beverly Hills Cop,4,"$431,012,375","$1,266,895,515","$712,145,974",1984,2024,40
+51,Home Alone,https://www.the-numbers.com/movies/franchise/Home-Alone,6,"$490,039,196","$1,253,456,293","$866,367,928",Home Alone,6,"$490,039,196","$1,253,456,293","$866,367,928",1990,2021,31
+52,Lethal Weapon,https://www.the-numbers.com/movies/franchise/Lethal-Weapon,4,"$487,622,466","$1,253,362,668","$952,592,350",Lethal Weapon,4,"$487,622,466","$1,253,362,668","$952,592,350",1987,1998,11
+53,Top Gun,https://www.the-numbers.com/movies/franchise/Top-Gun,3,"$899,203,310","$1,250,369,063","$1,821,105,154",Top Gun,3,"$899,203,310","$1,250,369,063","$1,821,863,981",1986,2025,39
+54,Thor,https://www.the-numbers.com/movies/franchise/Thor,4,"$1,045,707,883","$1,249,667,145","$2,705,339,993",Thor,4,"$1,045,707,883","$1,249,667,145","$2,705,339,993",2011,2022,11
+55,Bourne,https://www.the-numbers.com/movies/franchise/Bourne,5,"$800,424,270","$1,242,903,977","$1,665,926,127",Bourne,5,"$800,424,270","$1,242,903,977","$1,665,926,127",2002,2016,14
+56,Ice Age,https://www.the-numbers.com/movies/franchise/Ice-Age,8,"$793,676,582","$1,229,598,633","$3,206,624,261",Ice Age,8,"$793,676,582","$1,229,598,633","$3,206,624,261",2002,2022,20
+57,Teenage Mutant Ninja Turtles,https://www.the-numbers.com/movies/franchise/Teenage-Mutant-Ninja-Turtles,8,"$702,302,062","$1,215,105,980","$1,329,689,433",Teenage Mutant Ninja Turtles,8,"$702,302,062","$1,215,105,980","$1,329,689,433",1990,2026,36
+59,Cinderella,https://www.the-numbers.com/movies/franchise/Cinderella,3,"$85,000,000","$1,177,243,429","$263,591,415",Cinderella,3,"$85,000,000","$1,177,243,429","$263,591,415",1950,2019,69
+60,The Incredibles,https://www.the-numbers.com/movies/franchise/Incredibles-The,3,"$870,022,836","$1,173,452,146","$1,874,246,451",The Incredibles,3,"$870,022,836","$1,173,452,146","$1,874,246,451",2004,2025,21
+62,Minions,https://www.the-numbers.com/movies/franchise/Minions,6,"$1,067,320,740","$1,169,776,173","$3,061,934,147",Minions,6,"$1,067,320,740","$1,169,200,618","$3,055,859,528",2015,2027,12
+63,Back to the Future,https://www.the-numbers.com/movies/franchise/Back-to-the-Future,3,"$421,641,737","$1,168,508,125","$964,445,949",Back to the Future,3,"$421,641,737","$1,165,751,636","$964,445,949",1985,1990,5
+64,Matrix,https://www.the-numbers.com/movies/franchise/Matrix,4,"$635,281,183","$1,159,417,851","$1,791,049,142",Matrix,4,"$635,281,183","$1,156,415,869","$1,791,049,142",1999,2021,22
+65,Halloween,https://www.the-numbers.com/movies/franchise/Halloween,14,"$624,157,321","$1,157,856,417","$855,142,465",Halloween,14,"$624,157,321","$1,157,849,938","$855,142,465",1978,2022,44
+66,Jumanji,https://www.the-numbers.com/movies/franchise/Jumanji,4,"$849,844,012","$1,148,772,684","$2,078,293,569",Jumanji,4,"$849,844,012","$1,148,772,684","$2,078,293,569",1995,2019,24
+67,Jack Ryan,https://www.the-numbers.com/movies/franchise/Jack-Ryan,5,"$495,058,617","$1,133,613,588","$910,977,412",Jack Ryan,5,"$495,058,617","$1,133,613,588","$910,977,412",1990,2014,24
+68,Inside Out,https://www.the-numbers.com/movies/franchise/Inside-Out,2,"$1,009,441,905","$1,108,811,416","$2,548,247,104",Inside Out,2,"$1,009,441,905","$1,108,811,416","$2,543,526,030",2015,2024,9
+69,Godzilla,https://www.the-numbers.com/movies/franchise/Godzilla,12,"$816,781,287","$1,099,302,110","$2,500,216,216",Godzilla,12,"$816,055,411","$1,098,576,234","$2,499,489,912",1954,2024,70
+70,Jungle Book,https://www.the-numbers.com/movies/franchise/Jungle-Book,3,"$189,744,582","$1,095,364,661","$281,767,202",Jungle Book,3,"$189,744,582","$1,095,364,661","$281,767,202",1967,2013,46
+71,Frozen,https://www.the-numbers.com/movies/franchise/Frozen,4,"$878,326,587","$1,092,667,710","$2,724,218,978",Frozen,4,"$878,326,587","$1,092,667,710","$2,725,032,133",2013,2027,14
+72,Captain America,https://www.the-numbers.com/movies/franchise/Captain-America,4,"$844,485,812","$1,091,441,463","$2,236,871,251",Captain America,4,"$844,485,812","$1,091,441,463","$2,236,871,251",2011,2025,14
+74,Die Hard,https://www.the-numbers.com/movies/franchise/Die-Hard,5,"$505,107,524","$1,068,614,512","$1,436,104,549",Die Hard,5,"$505,107,524","$1,068,614,512","$1,436,104,549",1988,2013,25
+75,Pink Panther,https://www.the-numbers.com/movies/franchise/Pink-Panther,11,"$267,433,670","$1,063,760,104","$378,233,747",Pink Panther,11,"$267,433,670","$1,063,760,104","$378,233,747",1964,2009,45
+76,Mummy,https://www.the-numbers.com/movies/franchise/Mummy,4,"$552,217,951","$1,038,223,783","$1,424,829,789",Mummy,4,"$552,217,951","$1,038,093,130","$1,424,829,789",1999,2008,9
+78,Meet the Parents,https://www.the-numbers.com/movies/franchise/Meet-the-Parents,3,"$593,831,215","$1,012,764,820","$1,157,643,189",Meet the Parents,3,"$593,831,215","$1,012,764,820","$1,157,643,189",2000,2010,10
+79,Friday the 13th,https://www.the-numbers.com/movies/franchise/Friday-the-13th,12,"$382,746,073","$1,003,075,238","$466,199,585",Friday the 13th,12,"$382,746,073","$1,003,075,238","$466,199,585",1980,2009,29
+80,Madagascar,https://www.the-numbers.com/movies/franchise/Madagascar,5,"$673,512,794","$998,541,386","$2,270,104,142",Madagascar,5,"$673,512,794","$998,541,386","$2,270,104,142",2005,2019,14
+82,Karate Kid,https://www.the-numbers.com/movies/franchise/Karate-Kid,6,"$430,055,661","$995,026,393","$612,381,804",Karate Kid,6,"$430,055,661","$995,026,393","$612,381,804",1984,2025,41
+83,The Sting,https://www.the-numbers.com/movies/franchise/Sting-The,2,"$165,963,399","$993,847,634","$165,963,399",The Sting,2,"$165,963,399","$993,847,634","$165,963,399",1973,1983,10
+84,The Conjuring,https://www.the-numbers.com/movies/franchise/Conjuring-The,10,"$824,474,252","$990,276,801","$2,374,058,127",The Conjuring,10,"$824,474,252","$990,276,801","$2,374,058,127",2013,2025,12
+85,Wizard of Oz,https://www.the-numbers.com/movies/franchise/Wizard-of-Oz,5,"$299,627,135","$982,274,290","$555,526,415",Wizard of Oz,5,"$280,427,135","$961,573,941","$536,326,415",1939,2025,86
+86,Rush Hour,https://www.the-numbers.com/movies/franchise/Rush-Hour,3,"$507,477,118","$974,189,258","$849,311,714",Rush Hour,3,"$507,477,118","$974,189,258","$849,311,714",1998,2007,9
+87,Austin Powers,https://www.the-numbers.com/movies/franchise/Austin-Powers,3,"$473,041,863","$959,201,209","$676,406,139",Austin Powers,3,"$473,041,863","$959,201,209","$676,406,139",1997,2002,5
+88,Around the World in 80 Days,https://www.the-numbers.com/movies/franchise/Around-the-World-in-80-Days,2,"$66,004,159","$947,189,055","$114,004,159",Around the World in 80 Days,2,"$66,004,159","$947,189,055","$114,004,159",1956,2004,48
+89,Alvin and the Chipmunks,https://www.the-numbers.com/movies/franchise/Alvin-and-the-Chipmunks,5,"$655,935,962","$937,093,359","$1,404,694,725",Alvin and the Chipmunks,5,"$655,935,962","$937,093,359","$1,404,694,725",2007,2015,8
+90,Kung Fu Panda,https://www.the-numbers.com/movies/franchise/Kung-Fu-Panda,5,"$717,802,893","$920,552,748","$2,364,978,138",Kung Fu Panda,5,"$717,802,893","$920,552,748","$2,364,988,443",2008,2024,16
+92,Muppets,https://www.the-numbers.com/movies/franchise/Muppets,10,"$351,214,453","$909,443,586","$455,528,934",Muppets,10,"$351,214,453","$909,443,586","$455,537,083",1979,2025,46
+93,Scream,https://www.the-numbers.com/movies/franchise/Scream,7,"$521,761,480","$904,965,122","$911,176,246",Scream,7,"$521,761,480","$904,965,122","$911,176,246",1996,2026,30
+95,MonsterVerse,https://www.the-numbers.com/movies/franchise/MonsterVerse,5,"$776,495,129","$900,109,305","$2,491,619,861",MonsterVerse,5,"$776,495,129","$900,109,305","$2,491,619,861",2014,2024,10
+96,Hangover,https://www.the-numbers.com/movies/franchise/Hangover,3,"$643,986,880","$893,294,349","$1,414,251,960",Hangover,3,"$643,986,880","$893,294,349","$1,414,251,960",2009,2013,4
+97,Saturday Night Fever,https://www.the-numbers.com/movies/franchise/Saturday-Night-Fever,2,"$203,327,598","$892,378,803","$408,441,474",Saturday Night Fever,2,"$203,327,598","$892,378,803","$408,441,474",1977,1983,6
+98,Hannibal Lecter,https://www.the-numbers.com/movies/franchise/Hannibal-Lecter,5,"$425,065,056","$890,044,156","$921,488,140",Hannibal Lecter,5,"$425,065,056","$890,044,156","$921,488,140",1986,2007,21
+99,"Monsters, Inc.",https://www.the-numbers.com/movies/franchise/Monsters-Inc,2,"$558,637,754","$888,915,857","$1,303,939,529","Monsters, Inc.",2,"$558,637,754","$888,915,857","$1,303,939,529",2001,2013,12
+100,Rambo,https://www.the-numbers.com/movies/franchise/Rambo,5,"$338,917,404","$886,710,216","$818,951,691",Rambo,5,"$338,917,404","$886,710,216","$818,951,691",1982,2019,37
+102,Independence Day,https://www.the-numbers.com/movies/franchise/Independence-Day,2,"$409,313,541","$875,263,299","$1,201,570,302",Independence Day,2,"$409,313,541","$875,263,299","$1,201,570,302",1996,2016,20
+103,Twister,https://www.the-numbers.com/movies/franchise/Twister,2,"$509,450,650","$857,219,456","$865,448,265",Twister,2,"$509,450,650","$857,219,456","$865,748,823",1996,2024,28
+104,Cars,https://www.the-numbers.com/movies/franchise/Cars,3,"$588,434,972","$845,723,512","$1,405,327,310",Cars,3,"$588,434,972","$845,723,512","$1,405,327,310",2006,2017,11
+105,Bad Boys,https://www.the-numbers.com/movies/franchise/Bad-Boys,4,"$602,179,355","$843,977,693","$1,239,517,295",Bad Boys,4,"$602,179,355","$843,977,693","$1,239,571,616",1995,2024,29
+107,Scary Movie,https://www.the-numbers.com/movies/franchise/Scary-Movie,5,"$461,023,680","$838,164,738","$830,913,702",Scary Movie,5,"$461,023,680","$838,164,738","$830,913,702",2000,2013,13
+108,Crocodile Dundee,https://www.the-numbers.com/movies/franchise/Crocodile-Dundee,4,"$309,699,835","$836,634,388","$607,202,827",Crocodile Dundee,4,"$309,699,835","$836,634,388","$607,202,827",1986,2020,34
+109,Nightmare on Elm Street,https://www.the-numbers.com/movies/franchise/Nightmare-on-Elm-Street,9,"$361,659,872","$829,806,896","$450,407,859",Nightmare on Elm Street,9,"$361,659,872","$829,806,896","$448,306,620",1984,2010,26
+110,Grease,https://www.the-numbers.com/movies/franchise/Grease,2,"$196,110,853","$823,381,488","$401,769,400",Grease,2,"$196,110,853","$823,381,488","$401,769,400",1978,1982,4
+111,Hulk,https://www.the-numbers.com/movies/franchise/Hulk,3,"$582,042,436","$817,256,184","$1,361,088,316",Hulk,3,"$582,042,436","$817,256,184","$1,361,088,316",2003,2017,14
+112,Night at the Museum,https://www.the-numbers.com/movies/franchise/Night-at-the-Museum,4,"$541,853,610","$805,246,887","$1,335,434,091",Night at the Museum,4,"$541,853,610","$805,246,887","$1,335,434,091",2006,2022,16
+113,Fantasia,https://www.the-numbers.com/movies/franchise/Fantasia,2,"$143,827,228","$802,046,143","$143,839,080",Fantasia,2,"$143,827,228","$802,046,143","$143,839,080",1940,1999,59
+114,Man of Steel,https://www.the-numbers.com/movies/franchise/Man-of-Steel,2,"$621,405,712","$797,621,751","$1,540,394,609",Man of Steel,2,"$621,405,712","$797,621,751","$1,540,394,609",2013,2016,3
+115,Saw,https://www.the-numbers.com/movies/franchise/Saw,10,"$531,560,470","$785,815,790","$1,147,201,710",Saw,10,"$531,560,470","$785,815,790","$1,131,092,338",2004,2023,19
+116,Santa Clause,https://www.the-numbers.com/movies/franchise/Santa-Clause,3,"$369,265,333","$779,606,150","$470,850,714",Santa Clause,3,"$369,265,333","$779,606,150","$470,850,714",1994,2006,12
+118,Madea,https://www.the-numbers.com/movies/franchise/Madea,11,"$555,578,144","$769,816,284","$558,593,220",Madea,11,"$555,578,144","$769,816,284","$558,593,220",2005,2022,17
+120,American Pie,https://www.the-numbers.com/movies/franchise/American-Pie,8,"$408,010,808","$755,800,677","$990,376,564",American Pie,8,"$408,010,808","$755,800,677","$990,376,564",1999,2012,13
+121,Lego,https://www.the-numbers.com/movies/franchise/Lego,13,"$598,623,165","$747,113,571","$1,090,526,944",Lego,13,"$598,623,165","$747,113,571","$1,090,526,944",2014,2020,6
+122,American Graffiti,https://www.the-numbers.com/movies/franchise/American-Graffiti,2,"$123,657,835","$737,226,984","$148,657,835",American Graffiti,2,"$123,657,835","$736,960,999","$148,657,835",1973,1979,6
+123,How to Train Your Dragon,https://www.the-numbers.com/movies/franchise/How-to-Train-Your-Dragon,6,"$555,383,661","$720,064,653","$1,630,437,163",How to Train Your Dragon,6,"$555,383,661","$720,064,653","$1,630,437,163",2010,2025,15
+124,Police Academy,https://www.the-numbers.com/movies/franchise/Police-Academy,7,"$239,379,689","$715,299,915","$239,379,689",Police Academy,7,"$239,379,689","$715,299,915","$239,379,689",1984,1994,10
+125,Doctor Strange,https://www.the-numbers.com/movies/franchise/Doctor-Strange,3,"$643,973,527","$710,912,939","$1,628,568,160",Doctor Strange,3,"$643,973,527","$710,912,939","$1,628,568,160",2007,2022,15
+126,National Lampoon's Vacation,https://www.the-numbers.com/movies/franchise/National-Lampoons-Vacation,5,"$280,008,120","$706,656,144","$323,449,253",National Lampoon's Vacation,5,"$280,008,120","$702,965,234","$323,449,253",1983,2015,32
+127,Ant-Man,https://www.the-numbers.com/movies/franchise/Ant-Man,3,"$611,357,812","$701,307,066","$1,605,638,412",Ant-Man,3,"$611,357,812","$701,307,066","$1,605,638,412",2015,2023,8
+129,Psycho,https://www.the-numbers.com/movies/franchise/Psycho,4,"$78,481,606","$651,531,752","$78,483,783",Psycho,4,"$78,481,606","$651,531,752","$78,483,783",1960,1993,33
+130,The Secret Life of Pets,https://www.the-numbers.com/movies/franchise/Secret-Life-of-Pets-The,2,"$528,309,250","$647,000,907","$1,332,462,908",The Secret Life of Pets,2,"$528,309,250","$646,655,515","$1,332,462,908",2016,2019,3
+132,It,https://www.the-numbers.com/movies/franchise/It,2,"$540,422,102","$644,162,339","$1,168,574,332",It,2,"$540,422,102","$642,576,968","$1,168,574,332",2017,2019,2
+133,National Treasure,https://www.the-numbers.com/movies/franchise/National-Treasure,3,"$392,966,503","$640,755,115","$788,649,214",National Treasure,3,"$392,966,503","$640,755,115","$788,649,214",2004,2025,21
+135,Three Men and a Baby,https://www.the-numbers.com/movies/franchise/Three-Men-and-a-Baby,2,"$239,390,281","$634,835,192","$239,390,281",Three Men and a Baby,2,"$239,390,281","$634,835,192","$239,390,281",1987,1990,3
+136,Mario,https://www.the-numbers.com/movies/franchise/Mario,3,"$595,779,237","$629,211,641","$1,382,420,530",Mario,3,"$595,779,237","$629,211,641","$1,384,169,840",1993,2026,33
+137,Spy Kids,https://www.the-numbers.com/movies/franchise/Spy-Kids,5,"$348,835,365","$626,074,469","$565,946,536",Spy Kids,5,"$348,835,365","$626,074,469","$565,946,536",2001,2023,22
+138,Hotel Transylvania,https://www.the-numbers.com/movies/franchise/Hotel-Transylvania,5,"$485,513,250","$615,967,658","$1,398,011,393",Hotel Transylvania,5,"$485,513,250","$615,967,658","$1,398,761,183",2012,2022,10
+139,Fugitive,https://www.the-numbers.com/movies/franchise/Fugitive,2,"$241,709,363","$611,718,560","$411,548,920",Fugitive,2,"$241,709,363","$611,718,560","$411,548,920",1993,1998,5
+140,Venom,https://www.the-numbers.com/movies/franchise/Venom,3,"$556,887,250","$608,801,272","$1,795,953,451",Venom,3,"$427,061,774","$478,975,796","$1,357,627,975",2018,2024,6
+141,2001,https://www.the-numbers.com/movies/franchise/2001,2,"$100,936,321","$601,472,051","$112,777,922",2001,2,"$100,936,321","$601,008,867","$112,796,856",1968,1984,16
+142,Jackass,https://www.the-numbers.com/movies/franchise/Jackass,9,"$414,037,186","$593,576,800","$571,939,128",Jackass,9,"$414,037,186","$593,576,800","$571,939,128",2002,2022,20
+143,Da Vinci Code,https://www.the-numbers.com/movies/franchise/Da-Vinci-Code,3,"$385,255,558","$592,521,860","$1,478,215,672",Da Vinci Code,3,"$385,255,558","$592,521,860","$1,478,215,672",2006,2016,10
+144,Gremlins,https://www.the-numbers.com/movies/franchise/Gremlins,2,"$193,138,010","$591,924,087","$193,921,855",Gremlins,2,"$193,138,010","$591,924,087","$193,921,855",1984,1990,6
+145,Bruce Almighty,https://www.the-numbers.com/movies/franchise/Bruce-Almighty,2,"$342,994,685","$591,030,457","$658,599,937",Bruce Almighty,2,"$342,994,685","$591,030,457","$658,599,937",2003,2007,4
+147,Addams Family,https://www.the-numbers.com/movies/franchise/Addams-Family,4,"$314,149,987","$586,467,133","$557,767,880",Addams Family,4,"$314,149,987","$586,467,133","$557,767,880",1991,2021,30
+148,The Little Mermaid,https://www.the-numbers.com/movies/franchise/Little-Mermaid-The,4,"$409,715,535","$584,265,343","$791,893,903",The Little Mermaid,4,"$409,715,535","$584,265,343","$791,893,903",1989,2023,34
+149,Porky's,https://www.the-numbers.com/movies/franchise/Porkys,3,"$163,769,750","$579,309,503","$163,769,750",Porky's,3,"$163,769,750","$579,309,503","$163,769,750",1982,1985,3
+151,Predator,https://www.the-numbers.com/movies/franchise/Predator,8,"$313,156,619","$572,571,970","$741,185,941",Predator,8,"$313,156,619","$572,571,970","$741,185,941",1987,2025,38
+153,Nutty Professor,https://www.the-numbers.com/movies/franchise/Nutty-Professor,2,"$252,121,964","$560,782,198","$440,121,964",Nutty Professor,2,"$252,121,964","$560,782,198","$440,121,964",1996,2000,4
+154,John Wick,https://www.the-numbers.com/movies/franchise/John-Wick,6,"$493,215,552","$555,775,175","$1,026,336,447",John Wick,6,"$493,215,552","$555,775,175","$1,026,336,447",2014,2025,11
+155,Alice in Wonderland,https://www.the-numbers.com/movies/franchise/Alice-in-Wonderland,3,"$411,233,491","$552,614,278","$1,302,419,222",Alice in Wonderland,3,"$411,233,491","$552,614,278","$1,302,419,222",1933,2016,83
+156,Paranormal Activity,https://www.the-numbers.com/movies/franchise/Paranormal-Activity,7,"$401,360,355","$551,668,278","$890,417,130",Paranormal Activity,7,"$401,360,355","$551,668,278","$890,417,130",2009,2021,12
+157,My Big Fat Greek Wedding,https://www.the-numbers.com/movies/franchise/My-Big-Fat-Greek-Wedding,3,"$329,623,843","$549,936,898","$505,848,265",My Big Fat Greek Wedding,3,"$329,623,843","$549,936,898","$505,848,265",2002,2023,21
+158,Sherlock Holmes,https://www.the-numbers.com/movies/franchise/Sherlock-Holmes,4,"$395,877,097","$549,193,256","$1,034,101,655",Sherlock Holmes,4,"$395,877,097","$549,193,256","$1,034,101,655",2009,2021,12
+159,Wonder Woman,https://www.the-numbers.com/movies/franchise/Wonder-Woman,2,"$459,364,444","$548,050,392","$984,051,998",Wonder Woman,2,"$459,364,444","$548,050,392","$984,051,998",2017,2020,3
+160,Doctor Dolittle,https://www.the-numbers.com/movies/franchise/Doctor-Dolittle,5,"$257,107,326","$546,469,990","$470,258,326",Doctor Dolittle,5,"$257,107,326","$546,469,990","$470,258,326",1998,2009,11
+161,The Omen,https://www.the-numbers.com/movies/franchise/Omen-The,6,"$167,742,070","$545,729,009","$263,104,281",The Omen,6,"$167,742,070","$545,729,009","$263,104,281",1976,2024,48
+162,Amityville,https://www.the-numbers.com/movies/franchise/Amityville,11,"$169,327,766","$544,128,488","$220,971,236",Amityville,11,"$169,327,766","$544,128,488","$220,971,236",1979,2022,43
+163,Fantastic Four,https://www.the-numbers.com/movies/franchise/Fantastic-Four,4,"$342,735,366","$538,623,885","$790,462,628",Fantastic Four,4,"$342,735,366","$538,623,885","$790,462,628",2005,2025,20
+168,Taken,https://www.the-numbers.com/movies/franchise/Taken,3,"$374,111,700","$511,937,382","$932,405,413",Taken,3,"$374,111,700","$511,937,382","$932,405,413",2008,2015,7
+170,Sing,https://www.the-numbers.com/movies/franchise/Sing,2,"$433,120,035","$501,706,935","$1,035,598,770",Sing,2,"$433,120,035","$501,706,935","$1,035,598,770",2016,2021,5
+171,Mad Max,https://www.the-numbers.com/movies/franchise/Mad-Max,5,"$289,760,271","$495,791,828","$700,359,863",Mad Max,5,"$289,760,271","$495,265,926","$700,359,788",1979,2024,45
+172,Wreck-It Ralph,https://www.the-numbers.com/movies/franchise/Wreck-It-Ralph,2,"$390,504,388","$494,071,967","$1,025,802,351",Wreck-It Ralph,2,"$390,504,388","$494,071,967","$1,025,802,351",2012,2018,6
+173,Beetlejuice,https://www.the-numbers.com/movies/franchise/Beetlejuice,2,"$368,566,687","$487,660,431","$525,344,111",Beetlejuice,2,"$350,110,906","$467,943,379","$495,438,737",1988,2024,36
+174,Dumb and Dumber,https://www.the-numbers.com/movies/franchise/Dumb-and-Dumber,3,"$239,598,230","$486,625,844","$431,939,950",Dumb and Dumber,3,"$239,598,230","$486,625,844","$431,939,950",1994,2014,20
+175,Unbreakable,https://www.the-numbers.com/movies/franchise/Unbreakable,3,"$344,189,196","$486,228,892","$773,852,776",Unbreakable,3,"$344,189,196","$486,228,892","$773,852,776",2000,2019,19
+176,Dune,https://www.the-numbers.com/movies/franchise/Dune,4,"$419,579,659","$486,033,926","$1,167,012,391",Dune,4,"$419,579,659","$486,033,926","$1,167,012,391",1984,2026,42
+177,Guns of Navarone,https://www.the-numbers.com/movies/franchise/Guns-of-Navarone,2,"$36,000,000","$484,218,681","$36,019,394",Guns of Navarone,2,"$36,000,000","$484,218,681","$36,019,394",1961,1978,17
+179,300,https://www.the-numbers.com/movies/franchise/300,2,"$317,194,990","$470,632,475","$784,941,986",300,2,"$317,194,990","$470,632,475","$784,941,986",2007,2014,7
+181,Fifty Shades of Grey,https://www.the-numbers.com/movies/franchise/Fifty-Shades-of-Grey,3,"$381,009,000","$468,827,989","$1,324,147,014",Fifty Shades of Grey,3,"$381,009,000","$468,827,989","$1,324,147,014",2015,2018,3
+182,Ace Ventura,https://www.the-numbers.com/movies/franchise/Ace-Ventura,3,"$180,577,459","$459,186,810","$319,617,396",Ace Ventura,3,"$180,577,459","$459,186,810","$319,617,396",1994,2009,15
+183,Beauty and the Beast,https://www.the-numbers.com/movies/franchise/Beauty-and-the-Beast,2,"$206,333,165","$458,933,587","$438,656,843",Beauty and the Beast,2,"$206,333,165","$458,933,587","$438,656,843",1991,2002,11
+184,Maleficent,https://www.the-numbers.com/movies/franchise/Maleficent,2,"$355,336,933","$452,604,747","$1,247,718,092",Maleficent,2,"$355,336,933","$452,604,747","$1,247,718,092",2014,2019,5
+185,Rugrats Movie,https://www.the-numbers.com/movies/franchise/Rugrats,3,"$216,398,695","$451,930,964","$299,622,530",Rugrats Movie,3,"$216,398,695","$451,930,964","$299,622,530",1998,2003,5
+186,Charlie's Angels,https://www.the-numbers.com/movies/franchise/Charlies-Angels,3,"$243,921,179","$451,550,419","$560,134,411",Charlie's Angels,3,"$243,921,179","$451,550,419","$560,134,411",2000,2019,19
+187,Pitch Perfect,https://www.the-numbers.com/movies/franchise/Pitch-Perfect,3,"$354,194,853","$448,987,032","$588,995,955",Pitch Perfect,3,"$354,194,853","$448,987,032","$588,995,955",2012,2017,5
+188,The Divergent Series,https://www.the-numbers.com/movies/franchise/Divergent-Series-The,3,"$347,311,018","$448,119,921","$743,113,364",The Divergent Series,3,"$347,311,018","$448,119,921","$743,113,364",2014,2016,2
+189,Texas Chainsaw Massacre,https://www.the-numbers.com/movies/franchise/Texas-Chainsaw-Massacre,9,"$194,821,820","$446,504,171","$247,631,911",Texas Chainsaw Massacre,9,"$194,821,820","$446,504,171","$247,547,839",1974,2022,48
+191,Wayne's World,https://www.the-numbers.com/movies/franchise/Waynes-World,2,"$169,662,323","$441,210,093","$231,062,323",Wayne's World,2,"$169,662,323","$441,210,093","$231,062,323",1992,1993,1
+192,21 Jump Street,https://www.the-numbers.com/movies/franchise/21-Jump-Street,2,"$330,167,004","$440,461,971","$534,146,305",21 Jump Street,2,"$330,167,004","$440,461,971","$534,146,305",2012,2014,2
+193,Lara Croft,https://www.the-numbers.com/movies/franchise/Lara-Croft,3,"$255,048,744","$436,076,484","$703,900,629",Lara Croft,3,"$255,048,744","$436,076,484","$703,900,629",2001,2018,17
+194,Speed,https://www.the-numbers.com/movies/franchise/Speed,2,"$169,345,226","$433,319,219","$433,668,000",Speed,2,"$169,345,226","$433,319,219","$433,668,000",1994,1997,3
+195,Final Destination,https://www.the-numbers.com/movies/franchise/Final-Destination,6,"$263,362,372","$432,921,782","$657,627,377",Final Destination,6,"$263,362,372","$432,921,782","$657,627,377",2000,2025,25
+196,Scooby-Doo,https://www.the-numbers.com/movies/franchise/Scooby-Doo,18,"$239,667,976","$432,883,233","$483,427,371",Scooby-Doo,18,"$239,667,976","$432,883,233","$483,427,371",2002,2023,21
+198,Resident Evil,https://www.the-numbers.com/movies/franchise/Resident-Evil,11,"$287,827,867","$431,579,239","$1,271,576,346",Resident Evil,11,"$287,827,867","$431,579,239","$1,271,576,346",2002,2023,21
+199,Poltergeist,https://www.the-numbers.com/movies/franchise/Poltergeist,3,"$129,816,684","$430,063,648","$176,816,684",Poltergeist,3,"$129,816,684","$430,063,648","$176,816,684",1982,1988,6
+200,Creed,https://www.the-numbers.com/movies/franchise/Creed,4,"$381,732,085","$429,548,349","$661,607,718",Creed,4,"$381,732,085","$429,548,349","$661,607,718",2015,2024,9
+201,Zootopia,https://www.the-numbers.com/movies/franchise/Zootopia,2,"$341,268,248","$425,303,081","$1,000,877,770",Zootopia,2,"$341,268,248","$425,303,081","$1,000,877,770",2016,2025,9
+202,Airplane,https://www.the-numbers.com/movies/franchise/Airplane,2,"$108,463,033","$425,032,676","$108,463,801",Airplane,2,"$108,463,033","$425,032,676","$108,463,801",1980,1982,2
+204,Flintstones,https://www.the-numbers.com/movies/franchise/Flintstones,2,"$165,762,573","$415,346,652","$417,931,365",Flintstones,2,"$165,762,573","$415,346,652","$417,931,365",1994,2000,6
+205,Insidious,https://www.the-numbers.com/movies/franchise/Insidious,6,"$339,716,447","$413,347,824","$741,316,455",Insidious,6,"$339,716,447","$413,347,824","$741,316,455",2011,2025,14
+206,Happy Feet,https://www.the-numbers.com/movies/franchise/Happy-Feet,2,"$262,006,783","$411,124,385","$542,956,777",Happy Feet,2,"$262,006,783","$411,124,385","$542,956,777",2006,2011,5
+207,Stuart Little,https://www.the-numbers.com/movies/franchise/Stuart-Little,3,"$204,972,030","$410,243,637","$464,815,224",Stuart Little,3,"$204,972,030","$410,243,637","$464,815,224",1999,2006,7
+209,G.I. Joe,https://www.the-numbers.com/movies/franchise/G-I-Joe,5,"$300,988,883","$408,309,090","$712,886,943",G.I. Joe,5,"$300,988,883","$408,309,090","$712,886,943",2000,2021,21
+210,The Purge,https://www.the-numbers.com/movies/franchise/Purge-The,5,"$329,106,095","$407,856,222","$535,321,311",The Purge,5,"$329,106,095","$407,856,222","$535,321,311",2013,2021,8
+211,Blade,https://www.the-numbers.com/movies/franchise/Blade,4,"$204,216,153","$403,489,978","$416,929,454",Blade,4,"$204,216,153","$403,489,978","$416,929,454",1998,2025,27
+212,Big Momma's House,https://www.the-numbers.com/movies/franchise/Big-Mommas-House,3,"$225,640,824","$402,140,149","$392,939,264",Big Momma's House,3,"$225,640,824","$402,140,149","$392,939,264",2000,2011,11
+213,Ring,https://www.the-numbers.com/movies/franchise/Ring,4,"$232,828,769","$400,513,663","$493,079,331",Ring,4,"$232,828,769","$400,513,663","$493,079,331",2002,2017,15
+214,Ted,https://www.the-numbers.com/movies/franchise/Ted,2,"$300,142,125","$400,322,006","$773,230,770",Ted,2,"$300,142,125","$400,322,006","$773,230,770",2012,2015,3
+215,Grown Ups,https://www.the-numbers.com/movies/franchise/Grown-Ups,2,"$295,669,711","$398,578,233","$519,246,228",Grown Ups,2,"$295,669,711","$398,578,233","$519,246,228",2010,2013,3
+219,Cheaper by the Dozen,https://www.the-numbers.com/movies/franchise/Cheaper-by-the-Dozen,3,"$221,185,717","$382,763,304","$325,227,443",Cheaper by the Dozen,3,"$221,185,717","$382,763,304","$325,227,443",2003,2022,19
+220,Underworld,https://www.the-numbers.com/movies/franchise/Underworld,5,"$252,766,892","$382,181,593","$542,857,257",Underworld,5,"$252,766,892","$382,181,593","$542,857,257",2003,2016,13
+221,Gladiator,https://www.the-numbers.com/movies/franchise/Gladiator,2,"$194,183,805","$381,765,156","$545,152,963",Gladiator,2,"$187,683,805","$375,265,156","$451,683,599",2000,2024,24
+222,Blair Witch Project,https://www.the-numbers.com/movies/franchise/Blair-Witch-Project,3,"$187,737,474","$376,966,477","$335,006,891",Blair Witch Project,3,"$187,737,474","$376,966,477","$335,006,891",1999,2016,17
+224,Princess Diaries,https://www.the-numbers.com/movies/franchise/Princess-Diaries,2,"$203,394,209","$371,332,171","$300,048,209",Princess Diaries,2,"$203,394,209","$371,332,171","$300,048,209",2001,2004,3
+225,RoboCop,https://www.the-numbers.com/movies/franchise/RoboCop,5,"$168,409,071","$369,167,439","$353,484,354",RoboCop,5,"$168,409,071","$369,167,439","$353,484,354",1987,2020,33
+226,Rio,https://www.the-numbers.com/movies/franchise/Rio,2,"$275,158,244","$368,795,896","$980,363,532",Rio,2,"$275,158,244","$368,795,896","$980,363,532",2011,2014,3
+228,Benji,https://www.the-numbers.com/movies/franchise/Benji,5,"$79,063,152","$363,005,268","$79,063,152",Benji,5,"$79,063,152","$363,005,268","$79,063,152",1974,2004,30
+229,xXx,https://www.the-numbers.com/movies/franchise/xXx,4,"$213,702,345","$362,493,336","$683,307,291",xXx,4,"$213,702,345","$362,493,336","$683,307,291",2002,2020,18
+232,Sex and the City,https://www.the-numbers.com/movies/franchise/Sex-and-the-City,2,"$247,994,950","$359,455,747","$709,928,036",Sex and the City,2,"$247,994,950","$359,455,747","$709,928,036",2008,2010,2
+233,Mamma Mia,https://www.the-numbers.com/movies/franchise/Mamma-Mia,2,"$265,175,023","$359,305,863","$977,920,743",Mamma Mia,2,"$265,175,023","$359,144,961","$977,920,743",2008,2018,10
+234,Arthur,https://www.the-numbers.com/movies/franchise/Arthur,2,"$96,145,678","$353,103,212","$96,145,678",Arthur,2,"$96,145,678","$353,103,212","$96,145,678",1981,1988,7
+235,The Equalizer,https://www.the-numbers.com/movies/franchise/Equalizer-The,3,"$295,988,851","$347,130,833","$574,347,365",The Equalizer,3,"$295,988,851","$347,130,833","$574,347,365",2014,2023,9
+236,Legally Blonde,https://www.the-numbers.com/movies/franchise/Legally-Blonde,4,"$187,132,514","$345,818,788","$267,148,323",Legally Blonde,4,"$187,132,514","$345,818,788","$267,148,323",2001,2025,24
+237,Mask,https://www.the-numbers.com/movies/franchise/Mask,2,"$136,938,551","$345,295,613","$411,538,551",Mask,2,"$136,938,551","$345,295,613","$411,538,551",1994,2005,11
+238,Hancock,https://www.the-numbers.com/movies/franchise/Hancock,2,"$227,946,274","$342,236,875","$624,234,272",Hancock,2,"$227,946,274","$342,236,875","$624,234,272",2008,2020,12
+239,The Smurfs,https://www.the-numbers.com/movies/franchise/Smurfs-The,3,"$258,652,224","$342,139,823","$1,109,875,432",The Smurfs,3,"$258,652,224","$342,139,812","$1,109,875,432",2011,2017,6
+240,Under Siege,https://www.the-numbers.com/movies/franchise/Under-Siege,2,"$133,587,222","$341,046,978","$260,887,222",Under Siege,2,"$133,587,222","$341,046,978","$260,887,222",1992,1995,3
+242,Clash of the Titans,https://www.the-numbers.com/movies/franchise/Clash-of-the-Titans,2,"$246,884,971","$336,310,278","$798,484,971",Clash of the Titans,2,"$246,884,971","$336,310,278","$798,484,971",2010,2012,2
+244,The Color Purple,https://www.the-numbers.com/movies/franchise/Color-Purple-The,2,"$154,648,663","$335,659,497","$161,538,855",The Color Purple,2,"$154,648,663","$335,659,497","$161,538,855",1985,2023,38
+245,Bad News Bears,https://www.the-numbers.com/movies/franchise/Bad-News-Bears,3,"$89,218,131","$334,105,596","$89,850,402",Bad News Bears,3,"$89,218,131","$334,105,596","$89,850,402",1976,2005,29
+246,Tron,https://www.the-numbers.com/movies/franchise/Tron,2,"$198,981,339","$333,507,565","$426,785,299",Tron,2,"$198,981,339","$333,507,565","$426,785,299",1982,2010,28
+247,French Connection,https://www.the-numbers.com/movies/franchise/French-Connection,3,"$53,944,428","$333,185,901","$54,859,288",French Connection,3,"$53,944,428","$333,185,901","$54,859,288",1971,2008,37
+248,Child's Play,https://www.the-numbers.com/movies/franchise/Childs-Play,8,"$153,028,417","$331,162,948","$217,121,594",Child's Play,8,"$153,028,417","$331,162,775","$217,121,594",1988,2019,31
+249,The Expendables,https://www.the-numbers.com/movies/franchise/Expendables-The,4,"$244,129,413","$324,567,086","$840,842,411",The Expendables,4,"$244,129,413","$324,567,086","$840,842,411",2010,2023,13
+250,Kingsman,https://www.the-numbers.com/movies/franchise/Kingsman,3,"$265,672,935","$323,125,422","$934,490,720",Kingsman,3,"$265,672,935","$323,125,422","$934,490,720",2015,2021,6
+252,Annabelle,https://www.the-numbers.com/movies/franchise/Annabelle,3,"$260,518,605","$321,155,701","$793,021,583",Annabelle,3,"$260,518,605","$321,155,701","$793,021,583",2014,2019,5
+253,Barbershop,https://www.the-numbers.com/movies/franchise/Barbershop,3,"$194,882,105","$320,860,415","$197,310,075",Barbershop,3,"$194,882,105","$320,860,415","$197,310,075",2002,2016,14
+254,Step Up,https://www.the-numbers.com/movies/franchise/Step-Up,6,"$215,725,188","$319,721,820","$669,518,438",Step Up,6,"$215,725,188","$319,721,820","$669,518,438",2006,2019,13
+255,Elf,https://www.the-numbers.com/movies/franchise/Elf,2,"$181,096,587","$317,993,539","$227,909,435",Elf,2,"$181,096,587","$313,548,535","$227,909,435",2003,2015,12
+257,Basic Instinct,https://www.the-numbers.com/movies/franchise/Basic-Instinct,2,"$123,673,360","$315,593,253","$388,117,159",Basic Instinct,2,"$123,673,360","$315,593,253","$388,117,159",1992,2006,14
+260,The Croods,https://www.the-numbers.com/movies/franchise/Croods-The,2,"$245,737,240","$313,954,543","$787,834,663",The Croods,2,"$245,737,240","$313,954,543","$787,834,663",2013,2020,7
+261,Shaft,https://www.the-numbers.com/movies/franchise/Shaft,5,"$113,809,701","$308,399,943","$150,671,941",Shaft,5,"$113,809,701","$308,399,943","$150,671,941",1971,2019,48
+262,Moana,https://www.the-numbers.com/movies/franchise/Moana,2,"$248,757,044","$308,290,601","$686,127,612",Moana,2,"$248,757,044","$308,290,601","$686,127,612",2016,2024,8
+263,The Maze Runner,https://www.the-numbers.com/movies/franchise/Maze-Runner-The,3,"$242,157,497","$308,276,534","$924,764,559",The Maze Runner,3,"$242,157,497","$308,276,534","$924,764,559",2014,2018,4
+264,Mighty Ducks,https://www.the-numbers.com/movies/franchise/Mighty-Ducks,3,"$119,292,816","$308,236,174","$119,292,816",Mighty Ducks,3,"$119,292,816","$308,236,174","$119,292,816",1992,1996,4
+265,Mortal Kombat,https://www.the-numbers.com/movies/franchise/Mortal-Kombat,6,"$148,686,664","$303,742,735","$256,968,892",Mortal Kombat,6,"$148,686,664","$303,742,735","$256,968,892",1995,2025,30
+266,Paul Blart: Mall Cop,https://www.the-numbers.com/movies/franchise/Paul-Blart-Mall-Cop,2,"$217,427,772","$301,243,402","$293,358,657",Paul Blart: Mall Cop,2,"$217,427,772","$301,243,402","$293,358,657",2009,2015,6
+267,Space Jam,https://www.the-numbers.com/movies/franchise/Space-Jam,2,"$161,055,762","$295,005,577","$393,496,233",Space Jam,2,"$161,055,762","$295,005,577","$393,496,233",1996,2021,25
+268,Trolls,https://www.the-numbers.com/movies/franchise/Trolls,3,"$256,853,004","$294,543,232","$601,372,045",Trolls,3,"$256,853,004","$294,394,209","$601,372,045",2016,2023,7
+270,Zorro,https://www.the-numbers.com/movies/franchise/Zorro,2,"$139,404,081","$292,312,248","$375,175,336",Zorro,2,"$139,404,081","$292,312,248","$375,175,336",1998,2005,7
+271,Has Fallen,https://www.the-numbers.com/movies/franchise/Has-Fallen,3,"$230,482,288","$290,332,631","$501,376,661",Has Fallen,3,"$230,482,288","$290,332,631","$501,376,661",2013,2019,6
+272,Ride Along,https://www.the-numbers.com/movies/franchise/Ride-Along,2,"$225,065,250","$290,312,062","$278,561,116",Ride Along,2,"$225,065,250","$290,312,062","$278,561,116",2014,2016,2
+273,Miss Congeniality,https://www.the-numbers.com/movies/franchise/Miss-Congeniality,2,"$155,285,673","$289,378,147","$314,713,294",Miss Congeniality,2,"$155,285,673","$289,378,147","$314,713,294",2000,2005,5
+274,The Simpsons,https://www.the-numbers.com/movies/franchise/Simpsons-The,2,"$183,135,014","$286,947,010","$527,071,022",The Simpsons,2,"$183,135,014","$286,947,010","$527,071,022",2007,2021,14
+275,Analyze This,https://www.the-numbers.com/movies/franchise/Analyze-This,2,"$139,007,907","$286,325,694","$231,880,415",Analyze This,2,"$139,007,907","$286,325,694","$231,880,415",1999,2002,3
+277,Free Willy,https://www.the-numbers.com/movies/franchise/Free-Willy,3,"$111,294,914","$285,117,698","$187,294,914",Free Willy,3,"$111,294,914","$285,117,698","$187,294,914",1993,1997,4
+279,Grudge,https://www.the-numbers.com/movies/franchise/Grudge,4,"$170,719,349","$280,940,059","$307,528,071",Grudge,4,"$170,719,349","$280,940,059","$307,528,071",2004,2019,15
+280,True Grit,https://www.the-numbers.com/movies/franchise/True-Grit,2,"$39,132,592","$278,412,893","$45,659,900",True Grit,2,"$39,132,592","$278,412,893","$45,659,900",1969,1975,6
+281,Mulan,https://www.the-numbers.com/movies/franchise/Mulan,2,"$120,620,254","$277,246,551","$303,500,000",Mulan,2,"$120,620,254","$277,246,551","$303,500,000",1998,2005,7
+283,Get Shorty,https://www.the-numbers.com/movies/franchise/Get-Shorty,2,"$127,870,409","$272,288,279","$209,965,025",Get Shorty,2,"$127,870,409","$272,288,279","$209,965,025",1995,2005,10
+284,The Boss Baby,https://www.the-numbers.com/movies/franchise/Boss-Baby-The,3,"$232,303,313","$271,052,967","$674,191,681",The Boss Baby,3,"$232,303,313","$271,052,967","$674,191,681",2017,2021,4
+285,Lilo and Stitch,https://www.the-numbers.com/movies/franchise/Lilo-and-Stitch,3,"$145,771,527","$270,467,645","$245,799,997",Lilo and Stitch,3,"$145,771,527","$270,467,645","$245,799,997",2002,2025,23
+286,Snow White and the Huntsman,https://www.the-numbers.com/movies/franchise/Snow-White-and-the-Huntsman,2,"$203,139,770","$269,920,668","$566,171,048",Snow White and the Huntsman,2,"$203,139,770","$269,920,668","$566,171,048",2012,2016,4
+288,Eddie Felson,https://www.the-numbers.com/movies/franchise/Eddie-Felson,2,"$59,893,000","$269,576,075","$59,893,000",Eddie Felson,2,"$59,893,000","$269,576,075","$59,893,000",1961,1986,25
+290,World War Z,https://www.the-numbers.com/movies/franchise/World-War-Z,1,"$202,706,711","$268,687,317","$531,861,650",World War Z,1,"$202,706,711","$268,687,317","$531,861,650",2013,2013,
+291,Neighbors,https://www.the-numbers.com/movies/franchise/Neighbors,2,"$205,427,530","$267,001,724","$379,702,049",Neighbors,2,"$205,427,530","$267,001,724","$379,702,049",2014,2016,2
+292,Garry Marshall's Holiday Franchise,https://www.the-numbers.com/movies/franchise/Garry-Marshall-s-Holiday-Franchise,3,"$197,523,151","$265,559,382","$416,786,623",Garry Marshall's Holiday Franchise,3,"$197,523,151","$265,559,382","$416,786,623",2010,2016,6
+294,Magic Mike,https://www.the-numbers.com/movies/franchise/Magic-Mike,3,"$205,768,261","$264,458,765","$350,429,153",Magic Mike,3,"$205,768,261","$264,458,763","$350,429,153",2012,2023,11
+295,Pet Sematary,https://www.the-numbers.com/movies/franchise/Pet-Sematary,3,"$129,286,328","$264,069,866","$186,372,035",Pet Sematary,3,"$129,286,328","$264,069,866","$186,372,035",1989,2019,30
+296,Thomas Crown Affair,https://www.the-numbers.com/movies/franchise/Thomas-Crown-Affair,3,"$83,304,264","$262,270,339","$138,304,264",Thomas Crown Affair,3,"$83,304,264","$262,270,339","$138,304,264",1968,2012,44
+297,Blues Brothers,https://www.the-numbers.com/movies/franchise/Blues-Brothers,2,"$71,319,088","$261,729,184","$71,334,646",Blues Brothers,2,"$71,319,088","$261,729,184","$71,334,477",1980,1998,18
+299,Dumbo,https://www.the-numbers.com/movies/franchise/Dumbo,2,"$114,766,307","$261,423,407","$353,184,736",Dumbo,2,"$114,766,307","$261,423,407","$353,184,736",1941,2019,78
+300,Death Wish,https://www.the-numbers.com/movies/franchise/Death-Wish,5,"$62,808,612","$258,288,757","$62,808,612",Death Wish,5,"$62,808,612","$258,288,757","$62,808,612",1974,1994,20
+302,Conan,https://www.the-numbers.com/movies/franchise/Conan,3,"$85,959,106","$253,949,958","$168,870,218",Conan,3,"$85,959,106","$253,949,958","$168,870,218",1982,2011,29
+303,The Red Curtain Trilogy,https://www.the-numbers.com/movies/franchise/Red-Curtain-Trilogy-The,3,"$115,463,097","$252,723,119","$339,309,687",The Red Curtain Trilogy,3,"$115,463,097","$252,723,119","$339,309,687",1992,2001,9
+304,Ghost Rider,https://www.the-numbers.com/movies/franchise/Ghost-Rider,2,"$167,576,598","$251,562,543","$378,762,944",Ghost Rider,2,"$167,576,598","$251,562,543","$378,762,944",2007,2012,5
+305,Diary of a Wimpy Kid,https://www.the-numbers.com/movies/franchise/Diary-of-a-Wimpy-Kid,7,"$186,449,546","$250,379,881","$263,488,777",Diary of a Wimpy Kid,7,"$186,449,546","$250,379,881","$263,488,777",2010,2023,13
+307,The Hunchback of Notre Dame,https://www.the-numbers.com/movies/franchise/Hunchback-of-Notre-Dame-The,2,"$100,138,851","$244,230,041","$325,500,000",The Hunchback of Notre Dame,2,"$100,138,851","$244,230,041","$325,500,000",1996,2001,5
+308,Friday,https://www.the-numbers.com/movies/franchise/Friday,4,"$117,897,755","$244,076,621","$121,138,920",Friday,4,"$117,897,755","$244,076,621","$121,138,920",1995,2019,24
+310,Hellboy,https://www.the-numbers.com/movies/franchise/Hellboy,4,"$157,514,209","$243,364,936","$315,509,209",Hellboy,4,"$157,514,209","$243,364,936","$315,384,805",2004,2024,20
+313,Cats and Dogs,https://www.the-numbers.com/movies/franchise/Cats-and-Dogs,3,"$136,960,904","$237,392,341","$318,307,256",Cats and Dogs,3,"$136,960,904","$237,392,341","$318,307,256",2001,2020,19
+314,Now You See Me,https://www.the-numbers.com/movies/franchise/Now-You-See-Me,3,"$182,799,529","$237,196,415","$671,094,207",Now You See Me,4,"$182,799,529","$237,196,415","$671,094,207",2013,2025,12
+315,Bridget Jones,https://www.the-numbers.com/movies/franchise/Bridget-Jones,4,"$135,843,381","$236,034,751","$743,787,987",Bridget Jones,4,"$135,843,381","$236,034,751","$743,787,987",2001,2025,24
+316,Riddick,https://www.the-numbers.com/movies/franchise/Riddick,4,"$138,972,974","$234,377,661","$255,158,597",Riddick,4,"$138,972,974","$234,377,661","$255,158,597",2000,2023,23
+317,Kindergarten Cop,https://www.the-numbers.com/movies/franchise/Kindergarten-Cop,2,"$91,457,688","$233,896,247","$202,000,000",Kindergarten Cop,2,"$91,457,688","$233,896,247","$202,000,000",1990,2016,26
+320,Horrible Bosses,https://www.the-numbers.com/movies/franchise/Horrible-Bosses,2,"$171,983,916","$231,563,595","$318,362,958",Horrible Bosses,2,"$171,983,916","$231,563,595","$318,362,958",2011,2014,3
+321,Young Guns,https://www.the-numbers.com/movies/franchise/Young-Guns,2,"$88,870,054","$230,076,656","$88,870,054",Young Guns,2,"$88,870,054","$230,076,656","$88,870,054",1988,1990,2
+322,Bad Moms,https://www.the-numbers.com/movies/franchise/Bad-Moms,3,"$185,367,956","$227,803,456","$308,196,151",Bad Moms,3,"$185,367,956","$227,803,456","$308,196,151",2016,2019,3
+326,Blade Runner,https://www.the-numbers.com/movies/franchise/Blade-Runner,2,"$124,710,487","$224,283,743","$297,739,223",Blade Runner,2,"$124,710,487","$224,283,743","$297,739,223",1982,2017,35
+327,Major League,https://www.the-numbers.com/movies/franchise/Major-League,3,"$83,970,444","$223,610,251","$83,970,444",Major League,3,"$83,970,444","$223,610,251","$83,970,444",1989,1998,9
+329,Shanghai Noon,https://www.the-numbers.com/movies/franchise/Shanghai-Noon,2,"$117,402,525","$221,968,900","$159,506,670",Shanghai Noon,2,"$117,402,525","$221,968,900","$159,506,670",2000,2003,3
+330,Are We There Yet?,https://www.the-numbers.com/movies/franchise/Are-We-There-Yet,2,"$132,336,931","$216,851,687","$156,502,539",Are We There Yet?,2,"$132,336,931","$216,851,687","$156,502,539",2005,2007,2
+331,The Shining,https://www.the-numbers.com/movies/franchise/Shining-The,2,"$76,634,610","$214,696,808","$117,943,005",The Shining,2,"$76,634,610","$213,563,787","$117,944,275",1980,2019,39
+332,Kenneth Branagh's Hercule Poirot,https://www.the-numbers.com/movies/franchise/Kenneth-Branagh-s-Hercule-Poirot,3,"$190,928,059","$212,719,349","$595,858,574",Kenneth Branagh's Hercule Poirot,3,"$190,928,059","$212,719,349","$595,858,574",2017,2023,6
+333,Marley and Me,https://www.the-numbers.com/movies/franchise/Marley-and-Me,2,"$143,153,751","$212,592,499","$247,812,011",Marley and Me,2,"$143,153,751","$212,592,499","$247,812,011",2008,2011,3
+334,Percy Jackson,https://www.the-numbers.com/movies/franchise/Percy-Jackson,2,"$157,327,857","$212,189,413","$423,910,428",Percy Jackson,2,"$157,327,857","$212,189,413","$423,910,428",2010,2013,3
+335,The Heat,https://www.the-numbers.com/movies/franchise/Heat-The,2,"$159,581,587","$211,597,720","$229,727,774",The Heat,2,"$159,581,587","$211,597,720","$229,727,774",2013,2016,3
+337,Untouchables,https://www.the-numbers.com/movies/franchise/Untouchables,2,"$76,270,454","$210,280,167","$76,271,995",Untouchables,2,"$76,270,454","$210,280,167","$76,271,995",1987,2010,23
+338,Cloverfield,https://www.the-numbers.com/movies/franchise/Cloverfield,4,"$152,131,432","$210,017,048","$279,588,648",Cloverfield,4,"$152,131,432","$210,017,048","$279,588,648",2008,2023,15
+340,Think Like a Man,https://www.the-numbers.com/movies/franchise/Think-Like-a-Man,2,"$156,575,892","$209,782,595","$183,401,697",Think Like a Man,2,"$156,575,892","$209,782,595","$183,401,697",2012,2014,2
+341,Bill & Ted,https://www.the-numbers.com/movies/franchise/Bill-and-Ted,3,"$81,462,374","$209,537,629","$84,305,753",Bill & Ted,3,"$81,462,374","$209,537,629","$84,305,753",1989,2020,31
+342,Anaconda,https://www.the-numbers.com/movies/franchise/Anaconda,5,"$97,125,300","$208,791,492","$207,325,300",Anaconda,5,"$97,125,300","$208,791,492","$207,325,300",1997,2009,12
+343,View Askewniverse,https://www.the-numbers.com/movies/franchise/View-Askewniverse,8,"$106,636,675","$208,696,433","$130,941,441",View Askewniverse,8,"$106,636,675","$208,696,433","$130,941,441",1994,2019,25
+345,Daddy Day Care,https://www.the-numbers.com/movies/franchise/Daddy-Day-Care,2,"$117,384,048","$206,927,500","$182,495,459",Daddy Day Care,2,"$117,384,048","$206,927,500","$182,495,459",2003,2007,4
+347,Pacific Rim,https://www.the-numbers.com/movies/franchise/Pacific-Rim,2,"$161,677,431","$205,836,317","$701,933,054",Pacific Rim,2,"$161,677,431","$205,836,317","$701,933,054",2013,2018,5
+349,Megamind,https://www.the-numbers.com/movies/franchise/Megamind,2,"$148,415,853","$202,749,442","$321,887,208",Megamind,2,"$148,415,853","$202,749,442","$321,887,208",2010,2024,14
+352,Babe,https://www.the-numbers.com/movies/franchise/Babe,2,"$81,978,770","$199,210,649","$315,231,860",Babe,2,"$81,978,770","$199,210,649","$315,231,860",1995,1998,3
+356,The Blue Lagoon,https://www.the-numbers.com/movies/franchise/Blue-Lagoon-The,3,"$49,923,795","$197,172,625","$49,923,795",The Blue Lagoon,3,"$49,923,795","$197,172,625","$49,923,795",1980,2012,32
+357,Power Rangers,https://www.the-numbers.com/movies/franchise/Power-Rangers,5,"$123,149,648","$196,227,403","$182,149,496",Power Rangers,5,"$123,149,648","$196,227,403","$182,149,496",1995,2017,22
+358,Black Stallion,https://www.the-numbers.com/movies/franchise/Black-Stallion,2,"$47,651,322","$196,057,315","$47,651,322",Black Stallion,2,"$47,651,322","$196,057,315","$47,651,322",1979,1983,4
+359,Zombieland,https://www.the-numbers.com/movies/franchise/Zombieland,2,"$148,708,416","$194,697,688","$227,449,614",Zombieland,2,"$148,708,416","$194,697,688","$227,449,614",2009,2019,10
+360,RED,https://www.the-numbers.com/movies/franchise/RED,2,"$143,642,722","$194,102,815","$337,947,048",RED,2,"$143,642,722","$194,102,815","$337,947,048",2010,2013,3
+361,Evil Dead,https://www.the-numbers.com/movies/franchise/Evil-Dead,5,"$141,422,248","$193,771,427","$301,981,567",Evil Dead,5,"$141,422,248","$193,771,427","$301,981,567",1983,2023,40
+363,Species,https://www.the-numbers.com/movies/franchise/Species,3,"$79,272,014","$192,996,292","$140,172,014",Species,3,"$79,272,014","$192,996,292","$140,172,014",1995,2007,12
+364,My Girl,https://www.the-numbers.com/movies/franchise/My-Girl,2,"$74,570,585","$192,294,201","$74,570,585",My Girl,2,"$74,570,585","$192,294,201","$74,570,585",1991,1994,3
+365,Wall Street,https://www.the-numbers.com/movies/franchise/Wall-Street,2,"$96,322,716","$191,058,932","$181,279,719",Wall Street,2,"$96,322,716","$191,058,932","$181,279,719",1987,2010,23
+366,Caddyshack,https://www.the-numbers.com/movies/franchise/Caddyshack,2,"$51,644,646","$190,627,052","$51,648,066",Caddyshack,2,"$51,644,646","$190,627,052","$51,648,066",1980,1988,8
+367,Italian Job,https://www.the-numbers.com/movies/franchise/Italian-Job,1,"$106,126,012","$189,724,443","$176,262,839",Italian Job,1,"$106,126,012","$189,724,443","$176,262,839",2003,2003,
+371,Transporter,https://www.the-numbers.com/movies/franchise/Transporter,4,"$116,137,035","$187,526,013","$315,536,842",Transporter,4,"$116,137,035","$187,526,013","$315,536,842",2002,2015,13
+374,Angry Birds,https://www.the-numbers.com/movies/franchise/Angry-Birds,2,"$149,166,442","$183,007,134","$504,543,529",Angry Birds,2,"$149,166,442","$183,007,134","$504,543,529",2016,2019,3
+375,Jack Reacher,https://www.the-numbers.com/movies/franchise/Jack-Reacher,2,"$138,767,812","$181,147,498","$377,317,225",Jack Reacher,2,"$138,767,812","$181,147,498","$377,317,225",2012,2016,4
+377,Crow,https://www.the-numbers.com/movies/franchise/Crow,3,"$68,535,746","$177,444,600","$70,193,401",Crow,3,"$68,535,746","$177,444,600","$70,193,401",1994,2005,11
+378,Flatliners,https://www.the-numbers.com/movies/franchise/Flatliners,2,"$78,191,268","$176,901,675","$106,481,891",Flatliners,2,"$78,191,268","$176,901,675","$106,481,891",1990,2017,27
+379,The Emperor’s New Groove,https://www.the-numbers.com/movies/franchise/Emperors-New-Groove-The,2,"$89,630,573","$175,275,513","$169,630,573",The Emperor’s New Groove,2,"$89,630,573","$175,275,513","$169,630,573",2000,2005,5
+380,Smile,https://www.the-numbers.com/movies/franchise/Smile,2,"$172,584,058","$175,099,130","$349,710,943",Smile,2,"$105,935,048","$108,450,120","$217,038,821",2022,2024,2
+381,Peanuts,https://www.the-numbers.com/movies/franchise/Peanuts,10,"$132,191,604","$174,472,305","$252,104,803",Peanuts,10,"$132,191,604","$174,472,305","$252,104,803",1966,2015,49
+382,Deuce Bigelow,https://www.the-numbers.com/movies/franchise/Deuce-Bigelow,2,"$87,935,221","$174,398,840","$138,208,531",Deuce Bigelow,2,"$87,935,221","$174,398,840","$138,208,531",1999,2005,6
+383,Save the Last Dance,https://www.the-numbers.com/movies/franchise/Save-the-Last-Dance,1,"$91,038,276","$173,390,921","$122,244,329",Save the Last Dance,1,"$91,038,276","$173,390,921","$122,244,329",2001,2001,
+386,Safe House,https://www.the-numbers.com/movies/franchise/Safe-House,1,"$126,181,630","$170,884,161","$207,884,401",Safe House,1,"$126,181,630","$170,884,161","$207,884,401",2012,2012,
+388,Dark Universe,https://www.the-numbers.com/movies/franchise/Dark-Universe,3,"$136,093,005","$170,143,349","$630,195,628",Dark Universe,3,"$136,093,005","$170,143,349","$630,195,628",2014,2020,6
+389,El Mariachi,https://www.the-numbers.com/movies/franchise/El-Mariachi,3,"$83,903,965","$169,291,525","$124,987,843",El Mariachi,3,"$83,903,965","$169,291,525","$124,987,843",1993,2003,10
+390,Carrie,https://www.the-numbers.com/movies/franchise/Carrie,2,"$43,638,397","$168,658,253","$43,704,799",Carrie,2,"$43,638,397","$168,658,253","$43,646,980",1976,1999,23
+391,Why Did I Get Married,https://www.the-numbers.com/movies/franchise/Why-Did-I-Get-Married,3,"$115,300,377","$168,605,927","$116,765,245",Why Did I Get Married,3,"$115,300,377","$168,605,927","$116,765,245",2006,2010,4
+392,Scorpion King,https://www.the-numbers.com/movies/franchise/Scorpion-King-,4,"$90,580,000","$168,064,092","$165,890,634",Scorpion King,4,"$90,580,000","$168,064,092","$165,890,634",2002,2018,16
+393,House Party,https://www.the-numbers.com/movies/franchise/House-Party,4,"$65,018,837","$167,891,191","$65,018,837",House Party,4,"$65,018,837","$167,891,191","$65,018,837",1990,2012,22
+395,Ripley,https://www.the-numbers.com/movies/franchise/Ripley,2,"$81,292,135","$167,438,280","$130,484,774",Ripley,2,"$81,292,135","$167,438,280","$130,484,774",1999,2003,4
+396,The Best Man,https://www.the-numbers.com/movies/franchise/Best-Man-The,3,"$104,627,975","$165,781,826","$107,408,490",The Best Man,3,"$104,627,975","$165,781,826","$107,408,490",1999,2016,17
+400,Winnie the Pooh,https://www.the-numbers.com/movies/franchise/Winnie-the-Pooh,6,"$86,744,277","$162,824,451","$214,705,178",Winnie the Pooh,6,"$86,744,277","$162,824,451","$214,705,178",1977,2008,31
+402,Salt,https://www.the-numbers.com/movies/franchise/Salt,1,"$118,311,368","$161,647,221","$290,650,494",Salt,1,"$118,311,368","$161,647,221","$290,650,494",2010,2010,
+403,Escape from New York,https://www.the-numbers.com/movies/franchise/Escape-From-New-York,2,"$50,671,561","$159,905,238","$50,703,211",Escape from New York,2,"$50,671,561","$159,905,238","$50,703,211",1981,1996,15
+405,Chinatown,https://www.the-numbers.com/movies/franchise/Chinatown,2,"$33,175,806","$159,127,558","$33,176,963",Chinatown,2,"$33,175,806","$159,127,558","$33,176,963",1974,1990,16
+407,Unbroken,https://www.the-numbers.com/movies/franchise/Unbroken,2,"$121,854,792","$157,764,320","$169,744,721",Unbroken,2,"$121,854,792","$157,764,320","$169,744,721",2014,2018,4
+408,Goosebumps,https://www.the-numbers.com/movies/franchise/Goosebumps,2,"$126,766,779","$157,617,290","$251,958,672",Goosebumps,2,"$126,766,779","$157,617,290","$251,958,672",2015,2018,3
+410,Deep Blue Sea,https://www.the-numbers.com/movies/franchise/Deep-Blue-Sea,3,"$73,648,228","$156,285,012","$165,048,228",Deep Blue Sea,3,"$73,648,228","$156,285,012","$165,048,228",1999,2020,21
+411,Dolphin Tale,https://www.the-numbers.com/movies/franchise/Dolphin-Tale,2,"$114,311,312","$153,714,618","$153,893,257",Dolphin Tale,2,"$114,311,312","$153,714,618","$153,893,257",2011,2014,3
+412,Brother Bear,https://www.the-numbers.com/movies/franchise/Brother-Bear,2,"$85,336,277","$152,452,388","$250,397,798",Brother Bear,2,"$85,336,277","$152,452,388","$250,397,798",2003,2006,3
+413,Mean Girls,https://www.the-numbers.com/movies/franchise/Mean-Girls,2,"$86,047,227","$149,370,224","$130,462,048",Mean Girls,2,"$86,047,227","$149,370,224","$130,462,048",2004,2011,7
+414,Jingle All the Way,https://www.the-numbers.com/movies/franchise/Jingle-All-the-Way,2,"$60,592,389","$147,474,410","$129,832,389",Jingle All the Way,2,"$60,592,389","$147,474,410","$129,832,389",1996,2014,18
+415,Hollow Man,https://www.the-numbers.com/movies/franchise/Hollow-Man,2,"$73,209,340","$146,418,671","$191,200,000",Hollow Man,2,"$73,209,340","$146,418,671","$191,200,000",2000,2006,6
+416,Inside Man,https://www.the-numbers.com/movies/franchise/Inside-Man,1,"$88,634,237","$145,874,356","$185,798,265",Inside Man,1,"$88,634,237","$145,874,356","$185,798,265",2006,2006,
+417,Paddington,https://www.the-numbers.com/movies/franchise/Paddington,3,"$117,115,169","$145,859,771","$515,233,378",Paddington,3,"$117,115,169","$145,859,771","$494,968,883",2014,2024,10
+420,The Strangers,https://www.the-numbers.com/movies/franchise/Strangers-The,5,"$112,231,644","$143,082,355","$162,641,843",The Strangers,5,"$112,231,644","$143,082,355","$162,641,843",2008,2024,16
+421,Whole Nine Yards,https://www.the-numbers.com/movies/franchise/Whole-Nine-Yards,2,"$73,586,461","$142,861,907","$111,851,836",Whole Nine Yards,2,"$73,586,461","$142,861,907","$111,851,836",2000,2004,4
+422,Sin City,https://www.the-numbers.com/movies/franchise/Sin-City,2,"$87,861,624","$142,776,777","$199,178,760",Sin City,2,"$87,861,624","$142,776,777","$199,178,760",2005,2014,9
+423,Beverly Hills Chihuahua,https://www.the-numbers.com/movies/franchise/Beverly-Hills-Chihuahua,3,"$94,514,402","$141,856,133","$154,218,168",Beverly Hills Chihuahua,3,"$94,514,402","$141,856,133","$154,218,168",2008,2012,4
+424,Jeepers Creepers,https://www.the-numbers.com/movies/franchise/Jeepers-Creepers,4,"$77,796,195","$140,645,194","$188,005,928",Jeepers Creepers,4,"$77,796,195","$140,645,194","$188,005,928",2001,2022,21
+425,Open Season,https://www.the-numbers.com/movies/franchise/Open-Season,4,"$85,105,259","$140,066,362","$212,047,685",Open Season,4,"$85,105,259","$140,066,362","$212,047,685",2006,2015,9
+429,Road Trip,https://www.the-numbers.com/movies/franchise/Road-Trip,2,"$68,525,609","$137,051,217","$119,739,110",Road Trip,2,"$68,525,609","$137,051,217","$119,739,110",2000,2009,9
+430,Yogi Bear,https://www.the-numbers.com/movies/franchise/Yogi-Bear,1,"$100,246,011","$136,727,074","$204,774,690",Yogi Bear,1,"$100,246,011","$136,727,074","$204,774,690",2010,2010,
+433,High School Musical,https://www.the-numbers.com/movies/franchise/High-School-Musical,6,"$90,559,416","$135,943,777","$279,283,212",High School Musical,6,"$90,559,416","$135,943,777","$279,283,212",2006,2011,5
+434,Bad Grandpa,https://www.the-numbers.com/movies/franchise/Bad-Grandpa,2,"$102,003,019","$135,248,769","$160,903,019",Bad Grandpa,2,"$102,003,019","$135,248,769","$160,903,019",2013,2014,1
+435,Dukes of Hazzard,https://www.the-numbers.com/movies/franchise/Dukes-of-Hazzard,2,"$80,270,227","$134,994,232","$109,848,461",Dukes of Hazzard,2,"$80,270,227","$134,994,232","$109,848,461",2005,2007,2
+436,Old School,https://www.the-numbers.com/movies/franchise/Old-School,1,"$75,155,000","$134,356,692","$86,737,464",Old School,1,"$75,155,000","$134,356,692","$86,737,464",2003,2003,
+437,Edge of Tomorrow,https://www.the-numbers.com/movies/franchise/Edge-of-Tomorrow,2,"$100,206,256","$132,218,285","$367,028,980",Edge of Tomorrow,2,"$100,206,256","$132,218,285","$367,028,980",2014,2019,5
+440,Urban Legend,https://www.the-numbers.com/movies/franchise/Urban-Legend,2,"$59,585,514","$130,515,379","$111,146,226",Urban Legend,2,"$59,585,514","$130,515,379","$111,146,226",1998,2000,2
+441,Bad Santa,https://www.the-numbers.com/movies/franchise/Bad-Santa,2,"$77,842,504","$129,366,640","$100,492,144",Bad Santa,2,"$77,842,504","$129,366,640","$100,492,144",2003,2016,13
+442,Starship Troopers,https://www.the-numbers.com/movies/franchise/Starship-Troopers,5,"$54,768,952","$128,607,017","$121,294,423",Starship Troopers,5,"$54,768,952","$128,607,017","$121,294,423",1997,2017,20
+443,John Constantine,https://www.the-numbers.com/movies/franchise/John-Constantine,1,"$75,976,178","$127,772,720","$221,593,554",John Constantine,1,"$75,976,178","$127,772,720","$221,593,554",2005,2005,
+444,The Land Before Time,https://www.the-numbers.com/movies/franchise/Land-Before-Time-The,3,"$48,436,211","$127,281,918","$82,316,211",The Land Before Time,3,"$48,436,211","$127,038,473","$82,316,211",1988,2016,28
+445,Hellraiser,https://www.the-numbers.com/movies/franchise/Hellraiser,6,"$48,022,912","$126,210,893","$48,034,060",Hellraiser,6,"$48,022,912","$126,210,893","$48,034,060",1987,2018,31
+446,Agent Cody Banks,https://www.the-numbers.com/movies/franchise/Agent-Cody-Banks,2,"$71,059,307","$125,816,237","$86,943,541",Agent Cody Banks,2,"$71,059,307","$125,816,237","$86,943,541",2003,2004,1
+447,28 Days Later,https://www.the-numbers.com/movies/franchise/28-Days-Later,3,"$73,703,831","$125,436,986","$147,017,231",28 Days Later,3,"$73,703,831","$125,436,986","$147,017,231",2003,2025,22
+449,Dollar Trilogy,https://www.the-numbers.com/movies/franchise/Dollar-Trilogy,3,"$13,900,000","$124,868,319","$13,932,168",Dollar Trilogy,3,"$13,900,000","$124,868,319","$13,932,168",1967,1967,
+450,Red Dawn,https://www.the-numbers.com/movies/franchise/Red-Dawn,1,"$38,900,000","$124,804,156","$38,900,000",Red Dawn,1,"$38,900,000","$124,804,156","$38,900,000",1984,1984,
+451,Teen Wolf,https://www.the-numbers.com/movies/franchise/Teen-Wolf,2,"$40,974,611","$122,218,929","$40,974,611",Teen Wolf,2,"$40,974,611","$122,218,929","$40,974,611",1985,1987,2
+452,Zoolander,https://www.the-numbers.com/movies/franchise/Zoolander,2,"$74,020,943","$121,986,771","$116,129,674",Zoolander,2,"$74,020,943","$121,986,771","$116,129,674",2001,2016,15
+454,Jumper,https://www.the-numbers.com/movies/franchise/Jumper,1,"$80,172,128","$120,369,857","$222,640,812",Jumper,1,"$80,172,128","$120,369,857","$222,640,812",2008,2008,
+456,Sicario,https://www.the-numbers.com/movies/franchise/Sicario,2,"$96,955,143","$119,201,985","$160,610,276",Sicario,2,"$96,955,143","$119,201,985","$160,610,276",2015,2018,3
+457,The Nut Job,https://www.the-numbers.com/movies/franchise/Nut-Job-The,2,"$92,622,060","$118,872,645","$179,954,918",The Nut Job,2,"$92,622,060","$118,872,645","$179,954,918",2014,2017,3
+458,Timecop,https://www.the-numbers.com/movies/franchise/Timecop,2,"$44,853,581","$118,510,189","$102,053,581",Timecop,2,"$44,853,581","$118,510,189","$102,053,581",1994,2010,16
+459,Nanny McPhee,https://www.the-numbers.com/movies/franchise/Nanny-McPhee,2,"$76,476,921","$117,704,643","$226,545,443",Nanny McPhee,2,"$76,476,921","$117,704,643","$226,545,443",2006,2010,4
+463,F/X,https://www.the-numbers.com/movies/franchise/FX,2,"$41,679,546","$113,833,523","$41,679,546",F/X,2,"$41,679,546","$113,833,523","$41,679,546",1986,1991,5
+465,Highlander,https://www.the-numbers.com/movies/franchise/Highlander,5,"$46,623,898","$113,111,609","$53,623,898",Highlander,5,"$46,623,898","$113,111,609","$53,623,898",1986,2008,22
+467,Creepshow,https://www.the-numbers.com/movies/franchise/Creepshow,2,"$34,036,244","$112,064,675","$34,036,244",Creepshow,2,"$34,036,244","$112,064,675","$34,036,244",1982,1987,5
+468,White Fang,https://www.the-numbers.com/movies/franchise/White-Fang,2,"$43,481,490","$112,051,470","$43,481,490",White Fang,2,"$43,481,490","$112,051,470","$43,481,490",1991,1994,3
+469,Behind Enemy Lines,https://www.the-numbers.com/movies/franchise/Behind-Enemy-Lines,4,"$58,855,732","$111,843,093","$58,855,732",Behind Enemy Lines,4,"$58,855,732","$111,843,093","$58,855,732",2001,2014,13
+471,Ouija,https://www.the-numbers.com/movies/franchise/Ouija,3,"$86,000,515","$110,901,114","$185,132,498",Ouija,3,"$86,000,515","$110,901,114","$185,132,498",2014,2018,4
+472,His Dark Materials,https://www.the-numbers.com/movies/franchise/His-Dark-Materials,1,"$70,107,728","$109,558,132","$367,262,558",His Dark Materials,1,"$70,107,728","$109,558,132","$367,262,558",2007,2007,
+474,3 Ninjas,https://www.the-numbers.com/movies/franchise/3-Ninjas,4,"$41,488,660","$108,153,130","$41,488,660",3 Ninjas,4,"$41,488,660","$108,153,130","$41,488,660",1992,1998,6
+475,The Woman in Black,https://www.the-numbers.com/movies/franchise/Woman-in-Black-The,2,"$80,834,613","$108,082,544","$173,962,590",The Woman in Black,2,"$80,834,613","$108,082,544","$173,962,590",2012,2015,3
+477,Paw Patrol,https://www.the-numbers.com/movies/franchise/Paw-Patrol,9,"$105,470,680","$107,877,535","$373,233,870",Paw Patrol,9,"$105,470,680","$107,877,535","$373,233,870",2015,2026,11
+478,The Accountant,https://www.the-numbers.com/movies/franchise/Accountant-The,2,"$86,260,045","$107,483,025","$152,962,083",The Accountant,2,"$86,260,045","$107,483,025","$152,962,083",2016,2025,9
+479,Hostel,https://www.the-numbers.com/movies/franchise/Hostel,3,"$64,871,285","$105,380,246","$115,847,519",Hostel,3,"$64,871,285","$105,380,246","$115,847,519",2006,2011,5
+480,Jarhead,https://www.the-numbers.com/movies/franchise/Jarhead,4,"$62,647,540","$105,350,396","$96,947,540",Jarhead,4,"$62,647,540","$105,350,396","$96,947,540",2005,2019,14
+481,Tintin,https://www.the-numbers.com/movies/franchise/Tintin,2,"$77,591,831","$105,343,734","$373,993,951",Tintin,2,"$77,591,831","$105,343,734","$373,993,951",2011,2021,10
+482,Best Exotic Marigold Hotel,https://www.the-numbers.com/movies/franchise/Best-Exotic-Marigold-Hotel,2,"$79,461,905","$105,115,403","$224,040,642",Best Exotic Marigold Hotel,2,"$79,461,905","$105,115,403","$224,040,642",2012,2015,3
+484,Kick-Ass,https://www.the-numbers.com/movies/franchise/Kick-Ass,2,"$76,867,288","$103,861,290","$160,661,043",Kick-Ass,2,"$76,867,288","$103,861,290","$160,661,043",2010,2013,3
+486,Soul Food,https://www.the-numbers.com/movies/franchise/Soul-Food,1,"$43,492,389","$102,130,927","$43,492,389",Soul Food,1,"$43,492,389","$102,130,927","$43,492,389",1997,1997,
+487,Hills Have Eyes,https://www.the-numbers.com/movies/franchise/Hills-Have-Eyes,2,"$62,583,029","$101,356,935","$107,822,351",Hills Have Eyes,2,"$62,583,029","$101,356,935","$107,822,351",2006,2007,1
+488,Silent Hill,https://www.the-numbers.com/movies/franchise/Silent-Hill,2,"$64,512,851","$101,064,743","$150,679,899",Silent Hill,2,"$64,512,851","$101,064,743","$150,679,899",2006,2012,6
+489,Without a Paddle,https://www.the-numbers.com/movies/franchise/Without-a-Paddle,2,"$58,156,435","$100,951,682","$65,121,280",Without a Paddle,2,"$58,156,435","$100,951,682","$65,121,280",2004,2009,5
+490,Sinister,https://www.the-numbers.com/movies/franchise/Sinister,2,"$75,827,858","$100,596,901","$141,832,032",Sinister,2,"$75,827,858","$100,596,901","$141,832,032",2012,2015,3
+491,Butterfly Effect,https://www.the-numbers.com/movies/franchise/Butterfly-Effect,3,"$57,924,679","$100,552,013","$95,638,592",Butterfly Effect,3,"$57,924,679","$100,552,013","$95,638,592",2004,2009,5
+495,Street Fighter,https://www.the-numbers.com/movies/franchise/Street-Fighter,3,"$42,165,261","$98,919,457","$112,083,287",Street Fighter,3,"$42,165,261","$98,919,457","$112,083,287",1994,2026,32
+497,Benchwarmers,https://www.the-numbers.com/movies/franchise/Benchwarmers,2,"$59,843,754","$98,490,931","$65,063,726",Benchwarmers,2,"$59,843,754","$98,490,931","$65,063,726",2006,2019,13
+500,Curious George,https://www.the-numbers.com/movies/franchise/Curious-George,6,"$58,640,119","$96,509,987","$73,992,733",Curious George,6,"$58,640,119","$96,509,987","$73,992,733",2006,2021,15
+501,Stomp the Yard,https://www.the-numbers.com/movies/franchise/Stomp-the-Yard,2,"$61,356,221","$96,136,633","$75,525,718",Stomp the Yard,2,"$61,356,221","$96,136,633","$75,525,718",2007,2010,3
+502,Three Flavours Cornetto Trilogy,https://www.the-numbers.com/movies/franchise/Three-Flavours-Cornetto-Trilogy,3,"$63,956,332","$95,729,807","$157,602,947",Three Flavours Cornetto Trilogy,3,"$63,956,332","$95,729,807","$157,602,947",2004,2013,9
+505,Willard,https://www.the-numbers.com/movies/franchise/Willard,2,"$14,545,941","$95,033,472","$14,545,941",Willard,2,"$14,545,941","$95,033,472","$14,545,941",1971,1972,1
+506,Monty Python,https://www.the-numbers.com/movies/franchise/Monty-Python,4,"$39,602,261","$94,858,017","$41,569,803",Monty Python,4,"$39,602,261","$94,858,017","$41,569,803",1975,1983,8
+507,White Noise,https://www.the-numbers.com/movies/franchise/White-Noise,2,"$56,094,360","$94,336,535","$100,337,927",White Noise,2,"$56,094,360","$94,336,535","$100,337,927",2005,2008,3
+508,Happy Gilmore,https://www.the-numbers.com/movies/franchise/Happy-Gilmore,2,"$38,623,460","$94,199,294","$41,004,412",Happy Gilmore,2,"$38,623,460","$94,199,294","$41,004,412",1996,2024,28
+510,Elizabeth,https://www.the-numbers.com/movies/franchise/Elizabeth,2,"$46,367,939","$92,279,322","$157,021,508",Elizabeth,2,"$46,367,939","$92,279,322","$157,021,508",1998,2007,9
+513,Hitman: Agent 47,https://www.the-numbers.com/movies/franchise/Hitman-Agent-47,2,"$62,155,144","$90,886,967","$181,318,374",Hitman: Agent 47,2,"$62,155,144","$90,886,967","$181,318,374",2007,2015,8
+514,George A. Romero's Dead Series,https://www.the-numbers.com/movies/franchise/George-A-Romeros-Dead-Series,8,"$44,745,768","$90,436,480","$172,338,528",George A. Romero's Dead Series,8,"$44,745,768","$90,436,480","$172,338,528",1968,2021,53
+515,A Cinderella Story,https://www.the-numbers.com/movies/franchise/Cinderella-Story-A,5,"$51,438,175","$89,292,023","$70,112,484",A Cinderella Story,5,"$51,438,175","$89,292,023","$70,112,484",2004,2021,17
+516,Lawnmower Man,https://www.the-numbers.com/movies/franchise/Lawnmower-Man,2,"$34,497,118","$89,229,132","$34,497,118",Lawnmower Man,2,"$34,497,118","$89,229,132","$34,497,118",1992,1996,4
+518,Lost Boys,https://www.the-numbers.com/movies/franchise/Lost-Boys,3,"$32,222,567","$88,838,681","$32,394,143",Lost Boys,3,"$32,222,567","$88,838,681","$32,394,143",1987,2010,23
+520,Big Fat Liar,https://www.the-numbers.com/movies/franchise/Big-Fat-Liar,2,"$47,811,275","$88,710,075","$52,461,017",Big Fat Liar,2,"$47,811,275","$88,710,075","$52,461,017",2002,2017,15
+521,Demon Slayer: Kimetsu no Yaiba,https://www.the-numbers.com/movies/franchise/Demon-Slayer-Kimetsu-no-Yaiba,9,"$84,491,584","$87,483,911","$579,058,728",Demon Slayer: Kimetsu no Yaiba,9,"$84,491,584","$87,483,911","$579,058,728",2019,2024,5
+522,Demon Slayer,https://www.the-numbers.com/movies/franchise/Demon-Slayer,9,"$84,491,584","$87,483,911","$579,058,728",Demon Slayer,9,"$84,491,584","$87,483,911","$579,058,728",2019,2024,5
+523,House on Haunted Hill,https://www.the-numbers.com/movies/franchise/House-on-Haunted-Hill,2,"$40,846,082","$86,633,826","$65,090,541",House on Haunted Hill,2,"$40,846,082","$86,633,826","$65,090,541",1999,2007,8
+524,Hot Tub Time Machine,https://www.the-numbers.com/movies/franchise/Hot-Tub-Time-Machine,2,"$62,584,510","$84,430,577","$78,794,394",Hot Tub Time Machine,2,"$62,584,510","$84,430,577","$78,794,394",2010,2015,5
+526,Air Bud,https://www.the-numbers.com/movies/franchise/Air-Bud,15,"$36,127,069","$84,341,998","$40,809,768",Air Bud,15,"$36,127,069","$84,341,998","$40,809,768",1997,2018,21
+529,Fright Night,https://www.the-numbers.com/movies/franchise/Fright-Night,3,"$27,272,526","$82,029,245","$27,272,526",Fright Night,3,"$27,272,526","$82,029,245","$27,272,526",1985,2013,28
+532,47 Meters Down,https://www.the-numbers.com/movies/franchise/47-Meters-Down,2,"$66,568,093","$79,445,528","$110,216,268",47 Meters Down,2,"$66,568,093","$79,445,528","$110,216,268",2017,2019,2
+534,Boogeyman,https://www.the-numbers.com/movies/franchise/Boogeyman,3,"$46,752,382","$78,625,687","$67,192,859",Boogeyman,3,"$46,752,382","$78,625,687","$67,192,859",2005,2009,4
+535,The Last Exorcism,https://www.the-numbers.com/movies/franchise/Last-Exorcism-The,2,"$56,213,653","$76,191,703","$95,614,607",The Last Exorcism,2,"$56,213,653","$76,191,703","$95,614,607",2010,2013,3
+536,A Haunted House,https://www.the-numbers.com/movies/franchise/Haunted-House-A,2,"$57,371,170","$75,958,984","$81,129,419",A Haunted House,2,"$57,371,170","$75,958,984","$81,129,419",2013,2014,1
+537,Blue Crush,https://www.the-numbers.com/movies/franchise/Blue-Crush,2,"$40,118,420","$74,436,579","$51,618,420",Blue Crush,2,"$40,118,420","$74,436,579","$51,618,420",2002,2011,9
+538,Project X,https://www.the-numbers.com/movies/franchise/Project-X,1,"$54,731,865","$74,121,792","$103,028,188",Project X,1,"$54,731,865","$74,121,792","$103,028,188",2012,2012,
+539,The Thing,https://www.the-numbers.com/movies/franchise/Thing-The,2,"$31,244,637","$73,874,402","$42,609,423",The Thing,2,"$31,244,637","$73,646,696","$42,606,340",1982,2011,29
+540,Baby Geniuses,https://www.the-numbers.com/movies/franchise/Baby-Geniuses,2,"$36,260,812","$73,429,695","$36,506,859",Baby Geniuses,2,"$36,260,812","$73,429,695","$36,506,859",1999,2004,5
+542,Nim’s Island,https://www.the-numbers.com/movies/franchise/Nims-Island-(Australia),2,"$48,006,762","$72,077,010","$101,857,425",Nim’s Island,2,"$48,006,762","$72,077,010","$101,857,425",2008,2013,5
+543,Super Troopers,https://www.the-numbers.com/movies/franchise/Super-Troopers,2,"$49,109,758","$70,541,151","$55,148,963",Super Troopers,2,"$49,109,758","$70,541,151","$55,148,963",2002,2018,16
+544,Punisher,https://www.the-numbers.com/movies/franchise/Punisher,2,"$41,715,347","$70,525,984","$64,691,308",Punisher,2,"$41,715,347","$70,525,984","$64,691,308",2004,2008,4
+545,The Howling,https://www.the-numbers.com/movies/franchise/Howling-The,2,"$17,985,000","$69,740,391","$18,095,138",The Howling,2,"$17,985,000","$69,740,391","$18,095,138",1981,2012,31
+546,You Got Served,https://www.the-numbers.com/movies/franchise/You-Got-Served,2,"$40,066,497","$69,551,816","$52,042,400",You Got Served,2,"$40,066,497","$69,551,816","$52,042,400",2004,2011,7
+547,Wild Things,https://www.the-numbers.com/movies/franchise/Wild-Things,2,"$29,795,299","$68,484,715","$55,576,210",Wild Things,2,"$29,795,299","$68,484,715","$55,576,210",1998,2010,12
+548,Return of the Living Dead,https://www.the-numbers.com/movies/franchise/Return-of-the-Living-Dead,5,"$23,464,804","$67,435,649","$23,465,752",Return of the Living Dead,5,"$23,464,804","$67,435,649","$23,465,752",1985,2006,21
+549,Lake Placid,https://www.the-numbers.com/movies/franchise/Lake-Placid,5,"$31,770,413","$67,418,314","$31,770,413",Lake Placid,5,"$31,770,413","$67,418,314","$31,770,413",1999,2015,16
+550,Viva Pedro Box,https://www.the-numbers.com/movies/franchise/Viva-Pedro-Box,8,"$32,335,870","$67,168,219","$168,521,293",Viva Pedro Box,8,"$32,335,870","$67,168,219","$168,521,293",1986,2004,18
+551,VeggieTales,https://www.the-numbers.com/movies/franchise/VeggieTales,2,"$38,552,620","$66,924,557","$38,857,223",VeggieTales,2,"$38,552,620","$66,924,557","$38,857,223",2002,2008,6
+552,Johnny English,https://www.the-numbers.com/movies/franchise/Johnny-English,3,"$40,832,390","$66,729,558","$485,745,470",Johnny English,3,"$40,832,390","$66,729,558","$485,745,470",2003,2018,15
+553,The Mechanic,https://www.the-numbers.com/movies/franchise/Mechanic-The,2,"$50,339,901","$66,030,885","$202,077,028",The Mechanic,2,"$50,339,901","$66,030,885","$202,077,028",2011,2016,5
+556,Crank,https://www.the-numbers.com/movies/franchise/Crank,2,"$41,522,657","$65,485,320","$79,397,662",Crank,2,"$41,522,657","$65,485,320","$79,397,662",2006,2009,3
+559,Dracula 2000,https://www.the-numbers.com/movies/franchise/Dracula-2000,1,"$33,000,377","$64,910,164","$33,000,377",Dracula 2000,1,"$33,000,377","$64,910,164","$33,000,377",2000,2000,
+561,30 Days of Night,https://www.the-numbers.com/movies/franchise/30-Days-of-Night,2,"$39,568,996","$61,999,089","$80,276,156",30 Days of Night,2,"$39,568,996","$61,999,089","$80,276,156",2007,2010,3
+562,Prom Night,https://www.the-numbers.com/movies/franchise/Prom-Night,2,"$15,707,587","$61,807,572","$15,707,587",Prom Night,2,"$15,707,587","$61,807,572","$15,707,587",1980,1987,7
+563,The Dark Tower,https://www.the-numbers.com/movies/franchise/Dark-Tower-The,1,"$50,701,325","$60,932,031","$113,461,527",The Dark Tower,1,"$50,701,325","$60,932,031","$113,461,527",2017,2017,
+565,The Art of War,https://www.the-numbers.com/movies/franchise/The-Art-of-War,3,"$30,199,105","$60,398,206","$40,390,931",The Art of War,3,"$30,199,105","$60,398,206","$40,390,931",2000,2009,9
+568,The Boy,https://www.the-numbers.com/movies/franchise/Boy-The,2,"$48,431,092","$59,449,479","$87,189,278",The Boy,2,"$48,431,092","$59,449,479","$87,189,278",2016,2020,4
+571,Smokin Aces,https://www.the-numbers.com/movies/franchise/Smokin-Aces,2,"$35,662,731","$55,878,518","$57,263,440",Smokin Aces,2,"$35,662,731","$55,878,518","$57,263,440",2007,2010,3
+573,Max,https://www.the-numbers.com/movies/franchise/Max,2,"$42,656,255","$54,547,371","$43,730,696",Max,2,"$42,656,255","$54,547,371","$43,730,696",2015,2017,2
+574,Death Race,https://www.the-numbers.com/movies/franchise/Death-Race,4,"$36,316,032","$54,524,626","$72,516,819",Death Race,4,"$36,316,032","$54,524,626","$72,516,819",2008,2018,10
+575,Johnson Family,https://www.the-numbers.com/movies/franchise/Johnson-Family,2,"$31,203,964","$54,167,258","$31,286,759",Johnson Family,2,"$31,203,964","$54,167,258","$31,286,759",2004,2008,4
+576,Honey,https://www.the-numbers.com/movies/franchise/Honey,4,"$30,272,254","$54,043,094","$71,536,388",Honey,4,"$30,272,254","$54,043,094","$71,536,388",2003,2018,15
+577,Open Water,https://www.the-numbers.com/movies/franchise/Open-Water,2,"$30,500,882","$52,946,779","$57,005,415",Open Water,2,"$30,500,882","$52,946,779","$57,005,415",2004,2017,13
+578,Clerks,https://www.the-numbers.com/movies/franchise/Clerks,3,"$31,884,602","$52,558,256","$35,974,441",Clerks,3,"$31,884,602","$52,558,256","$35,974,441",1994,2022,28
+579,Unfriended,https://www.the-numbers.com/movies/franchise/Unfriended,2,"$41,656,390","$52,422,450","$80,798,786",Unfriended,2,"$41,656,390","$52,422,450","$80,798,786",2015,2018,3
+580,Joe Dirt,https://www.the-numbers.com/movies/franchise/Joe-Dirt,2,"$27,087,695","$51,591,043","$30,987,695",Joe Dirt,2,"$27,087,695","$51,591,043","$30,987,695",2001,2015,14
+582,Gettysburg,https://www.the-numbers.com/movies/franchise/Gettysburg,2,"$23,614,931","$50,975,839","$23,655,933",Gettysburg,2,"$23,614,931","$50,975,839","$23,655,933",1993,2003,10
+583,47 Ronin,https://www.the-numbers.com/movies/franchise/47-Ronin,2,"$38,362,475","$50,829,996","$151,716,815",47 Ronin,2,"$38,362,475","$50,829,996","$151,716,815",2013,2022,9
+584,Sniper,https://www.the-numbers.com/movies/franchise/Sniper,9,"$18,994,653","$49,459,502","$18,994,653",Sniper,9,"$18,994,653","$49,459,502","$18,994,653",1993,2023,30
+585,Quarantine,https://www.the-numbers.com/movies/franchise/Quarantine,2,"$31,691,811","$47,581,853","$41,924,774",Quarantine,2,"$31,691,811","$47,581,853","$41,924,774",2008,2011,3
+586,Cirque du Soleil,https://www.the-numbers.com/movies/franchise/Cirque-du-Soleil,3,"$28,138,938","$47,262,140","$61,914,168",Cirque du Soleil,3,"$28,138,938","$47,262,140","$61,914,168",1999,2019,20
+587,Machete,https://www.the-numbers.com/movies/franchise/Machete,2,"$34,601,807","$46,952,980","$64,643,979",Machete,2,"$34,601,807","$46,952,980","$64,643,979",2010,2013,3
+591,Mirrors,https://www.the-numbers.com/movies/franchise/Mirrors,2,"$30,691,439","$46,079,908","$77,220,596",Mirrors,2,"$30,691,439","$46,079,908","$77,220,596",2008,2010,2
+592,Space Chimps,https://www.the-numbers.com/movies/franchise/Space-Chimps,2,"$30,105,968","$45,200,885","$72,590,156",Space Chimps,2,"$30,105,968","$45,200,885","$72,590,156",2008,2010,2
+593,R.I.P.D,https://www.the-numbers.com/movies/franchise/R-I-P-D,2,"$33,618,855","$44,577,025","$79,076,678",R.I.P.D,2,"$33,618,855","$44,577,025","$79,076,678",2013,2022,9
+594,An Inconvenient Truth,https://www.the-numbers.com/movies/franchise/Inconvenient-Truth-An,2,"$27,642,956","$43,942,169","$59,205,247",An Inconvenient Truth,2,"$27,642,956","$43,942,169","$59,205,247",2006,2017,11
+596,Trainspotting,https://www.the-numbers.com/movies/franchise/Trainspotting,2,"$18,903,789","$43,133,119","$113,679,051",Trainspotting,2,"$18,903,789","$43,133,119","$113,679,051",1996,2017,21
+597,Tremors,https://www.the-numbers.com/movies/franchise/Tremors,7,"$16,667,084","$42,576,095","$16,668,089",Tremors,7,"$16,667,084","$42,576,095","$16,668,089",1990,2020,30
+598,Kickboxer,https://www.the-numbers.com/movies/franchise/Kickboxer,4,"$15,745,035","$42,361,928","$15,920,982",Kickboxer,4,"$15,745,035","$42,361,928","$15,920,982",1989,2018,29
+599,Joy Ride,https://www.the-numbers.com/movies/franchise/Joy-Ride,3,"$21,973,182","$41,849,976","$22,204,890",Joy Ride,3,"$21,973,182","$41,849,976","$22,204,890",2001,2014,13
+600,Big Lebowski,https://www.the-numbers.com/movies/franchise/Big-Lebowski,2,"$18,736,987","$41,401,528","$47,474,151",Big Lebowski,2,"$18,736,987","$40,134,587","$47,474,151",1998,2019,21
+601,Beastmaster,https://www.the-numbers.com/movies/franchise/Beastmaster,2,"$11,524,616","$41,401,355","$11,524,616",Beastmaster,2,"$11,524,616","$41,401,355","$11,524,616",1982,1991,9
+603,Wind River,https://www.the-numbers.com/movies/franchise/Wind-River,2,"$33,800,859","$40,621,325","$44,984,979",Wind River,2,"$33,800,859","$40,621,325","$44,984,979",2017,2023,6
+604,Half Baked,https://www.the-numbers.com/movies/franchise/Half-Baked,2,"$17,394,881","$39,982,255","$17,394,881",Half Baked,2,"$17,394,881","$39,982,255","$17,394,881",1998,2024,26
+605,Street Kings,https://www.the-numbers.com/movies/franchise/Street-Kings,2,"$26,418,667","$39,664,794","$65,457,811",Street Kings,2,"$26,418,667","$39,664,794","$65,457,811",2008,2011,3
+608,Omega Code,https://www.the-numbers.com/movies/franchise/Omega-Code,2,"$18,658,243","$38,237,749","$18,726,003",Omega Code,2,"$18,658,243","$38,237,749","$18,726,003",1999,2001,2
+609,Cabin Fever,https://www.the-numbers.com/movies/franchise/Cabin-Fever,3,"$21,158,188","$37,825,080","$30,351,664",Cabin Fever,3,"$21,158,188","$37,825,080","$30,351,664",2003,2014,11
+611,Millenium,https://www.the-numbers.com/movies/franchise/Millenium,3,"$27,259,458","$37,440,978","$221,298,683",Millenium,3,"$27,259,458","$37,440,978","$221,298,683",2009,2010,1
+612,Never Back Down,https://www.the-numbers.com/movies/franchise/Never-Back-Down,4,"$24,850,922","$37,310,992","$39,319,801",Never Back Down,4,"$24,850,922","$37,310,992","$39,319,801",2008,2021,13
+613,X (Mia Goth),https://www.the-numbers.com/movies/franchise/X-(Mia-Goth),3,"$36,290,547","$36,793,698","$46,708,891",X (Mia Goth),3,"$36,290,547","$36,793,698","$46,719,607",2022,2024,2
+614,Piranha,https://www.the-numbers.com/movies/franchise/Piranha,4,"$25,374,059","$34,663,758","$90,191,276",Piranha,4,"$25,374,059","$34,663,758","$90,191,276",1978,2012,34
+615,Flicka,https://www.the-numbers.com/movies/franchise/Flicka,3,"$21,000,147","$34,553,263","$21,896,367",Flicka,3,"$21,000,147","$34,553,263","$21,896,367",2006,2012,6
+616,Center Stage,https://www.the-numbers.com/movies/franchise/Center-Stage,3,"$17,200,925","$34,401,847","$21,395,182",Center Stage,3,"$17,200,925","$34,401,847","$21,395,182",2000,2016,16
+617,Alpha and Omega,https://www.the-numbers.com/movies/franchise/Alpha-and-Omega,7,"$25,107,267","$34,303,717","$48,958,353",Alpha and Omega,7,"$25,107,267","$34,303,717","$48,958,353",2010,2017,7
+618,Before Sunrise,https://www.the-numbers.com/movies/franchise/Before-Sunrise,3,"$19,177,448","$33,879,933","$40,314,344",Before Sunrise,3,"$19,177,448","$33,879,933","$40,314,344",1995,2013,18
+619,Pulse,https://www.the-numbers.com/movies/franchise/Pulse,3,"$20,264,436","$33,351,239","$30,241,435",Pulse,3,"$20,264,436","$33,351,239","$30,241,435",2006,2008,2
+620,Escape Plan,https://www.the-numbers.com/movies/franchise/Escape-Plan,3,"$25,135,965","$33,328,634","$122,170,725",Escape Plan,3,"$25,135,965","$33,328,634","$122,170,725",2013,2019,6
+621,Warlock,https://www.the-numbers.com/movies/franchise/Warlock,2,"$12,727,232","$32,757,930","$12,727,232",Warlock,2,"$12,727,232","$32,757,930","$12,727,232",1991,1993,2
+622,Bloodsport,https://www.the-numbers.com/movies/franchise/Bloodsport,2,"$12,490,470","$32,634,994","$12,490,470",Bloodsport,2,"$12,490,470","$32,634,994","$12,490,470",1988,1996,8
+623,Hercules,https://www.the-numbers.com/movies/franchise/Hercules,2,"$9,466,655","$32,396,994","$9,466,655",Hercules,2,"$9,466,655","$32,396,994","$9,466,655",1983,1985,2
+628,The Marine,https://www.the-numbers.com/movies/franchise/The-Marine,5,"$18,844,784","$31,009,888","$22,165,608",The Marine,5,"$18,844,784","$31,009,888","$22,165,608",2006,2018,12
+632,Skyline,https://www.the-numbers.com/movies/franchise/Skyline,3,"$21,416,355","$29,260,876","$69,447,922",Skyline,3,"$21,416,355","$29,260,876","$69,447,922",2010,2020,10
+634,Tales From the Hood,https://www.the-numbers.com/movies/franchise/Tales-From-the-Hood,3,"$11,784,569","$29,204,055","$11,784,569",Tales From the Hood,3,"$11,784,569","$29,204,055","$11,784,569",1995,2020,25
+635,Class of 1984,https://www.the-numbers.com/movies/franchise/Class-of-1984,3,"$8,365,510","$29,116,328","$8,365,510",Class of 1984,3,"$8,365,510","$29,116,328","$8,365,510",1982,1994,12
+636,Wrong Turn,https://www.the-numbers.com/movies/franchise/Wrong-Turn,7,"$16,668,955","$28,888,998","$32,293,317",Wrong Turn,7,"$16,668,955","$28,888,998","$32,293,317",2003,2021,18
+639,Waiting,https://www.the-numbers.com/movies/franchise/Waiting,2,"$16,124,543","$27,117,403","$18,673,274",Waiting,2,"$16,124,543","$27,117,403","$18,673,274",2005,2009,4
+640,Wolf Creek,https://www.the-numbers.com/movies/franchise/Wolf-Creek,2,"$16,186,348","$27,076,482","$29,170,393",Wolf Creek,2,"$16,186,348","$27,076,482","$29,170,393",2005,2014,9
+646,Happily N'Ever After,https://www.the-numbers.com/movies/franchise/Happily-Never-After,2,"$15,849,032","$24,833,218","$38,711,306",Happily N'Ever After,2,"$15,849,032","$24,833,218","$38,711,306",2007,2009,2
+648,See No Evil,https://www.the-numbers.com/movies/franchise/See-No-Evil,2,"$15,032,800","$24,740,995","$18,828,036",See No Evil,2,"$15,032,800","$24,740,995","$18,828,036",2006,2014,8
+649,Arthur and the Minimoys,https://www.the-numbers.com/movies/franchise/Arthur-and-the-Minimoys,3,"$15,827,035","$24,657,095","$198,502,059",Arthur and the Minimoys,3,"$15,827,035","$24,657,095","$198,502,059",2007,2015,8
+651,Undisputed,https://www.the-numbers.com/movies/franchise/Undisputed,4,"$12,398,628","$23,004,682","$12,402,560",Undisputed,4,"$12,398,628","$23,004,682","$12,402,560",2002,2017,15
+652,Left Behind,https://www.the-numbers.com/movies/franchise/Left-Behind,2,"$17,669,346","$22,148,161","$24,987,159",Left Behind,2,"$17,669,346","$22,148,161","$24,987,159",2014,2023,9
+653,Belly,https://www.the-numbers.com/movies/franchise/Belly,2,"$9,639,390","$22,134,121","$9,639,390",Belly,2,"$9,639,390","$22,134,121","$9,639,390",1998,2008,10
+654,Norm of the North,https://www.the-numbers.com/movies/franchise/Norm-of-the-North,4,"$17,062,499","$21,264,014","$33,383,271",Norm of the North,4,"$17,062,499","$21,264,014","$33,383,271",2016,2020,4
+655,The Man With The Iron Fists,https://www.the-numbers.com/movies/franchise/Man-With-The-Iron-Fists-The,2,"$15,634,090","$21,172,793","$22,018,988",The Man With The Iron Fists,2,"$15,634,090","$21,172,793","$22,018,988",2012,2015,3
+657,After,https://www.the-numbers.com/movies/franchise/After,5,"$17,684,886","$20,401,269","$141,586,158",After,5,"$17,684,886","$20,401,269","$141,586,158",2019,2023,4
+659,The Collector,https://www.the-numbers.com/movies/franchise/Collector-The,2,"$14,522,868","$20,308,474","$19,363,930",The Collector,2,"$14,522,868","$20,308,474","$19,363,930",2009,2012,3
+660,Molly Hartley,https://www.the-numbers.com/movies/franchise/Molly-Hartley,2,"$13,442,412","$20,182,338","$15,318,257",Molly Hartley,2,"$13,442,412","$20,182,338","$15,318,257",2008,2015,7
+663,Phantasm,https://www.the-numbers.com/movies/franchise/Phantasm,5,"$7,282,851","$19,101,977","$7,282,851",Phantasm,5,"$7,282,851","$19,101,977","$7,282,851",1979,2016,37
+666,12 Rounds,https://www.the-numbers.com/movies/franchise/12-Rounds,3,"$12,234,694","$17,585,339","$17,306,648",12 Rounds,3,"$12,234,694","$17,585,339","$17,306,648",2009,2015,6
+667,Fortress,https://www.the-numbers.com/movies/franchise/Fortress,2,"$6,730,578","$17,525,510","$46,730,578",Fortress,2,"$6,730,578","$17,525,510","$46,730,578",1993,1999,6
+668,Eddie and the Cruisers,https://www.the-numbers.com/movies/franchise/Eddie-and-the-Cruisers,2,"$5,225,097","$17,492,383","$5,225,097",Eddie and the Cruisers,2,"$5,225,097","$17,492,383","$5,225,097",1983,1989,6
+672,C.H.U.D.,https://www.the-numbers.com/movies/franchise/C-H-U-D,2,"$4,700,000","$15,079,161","$4,700,000",C.H.U.D.,2,"$4,700,000","$15,079,161","$4,700,000",1984,2016,32
+674,Boondock Saints,https://www.the-numbers.com/movies/franchise/Boondock-Saints,2,"$10,303,658","$14,804,529","$11,041,194",Boondock Saints,2,"$10,303,658","$14,804,529","$11,041,194",2000,2009,9
+677,City of God,https://www.the-numbers.com/movies/franchise/City-of-God,2,"$7,870,473","$13,838,739","$34,665,848",City of God,2,"$7,870,473","$13,838,739","$34,665,848",2003,2008,5
+681,Atlas Shrugged,https://www.the-numbers.com/movies/franchise/Atlas-Shrugged,3,"$8,940,096","$12,102,006","$8,940,096",Atlas Shrugged,3,"$8,940,096","$12,102,006","$8,940,096",2011,2014,3
+684,Fire Earth Water,https://www.the-numbers.com/movies/franchise/Fire-Earth-Water,3,"$6,559,649","$11,388,779","$12,353,078",Fire Earth Water,3,"$6,559,649","$11,388,779","$12,353,078",1997,2006,9
+685,Work and the Glory,https://www.the-numbers.com/movies/franchise/Work-and-the-Glory,3,"$6,697,771","$11,223,909","$6,697,771",Work and the Glory,3,"$6,697,771","$11,223,909","$6,697,771",2004,2006,2
+686,"Stepfather, The",https://www.the-numbers.com/movies/franchise/Stepfather-The,2,"$4,008,536","$10,967,648","$4,008,536","Stepfather, The",2,"$4,008,536","$10,967,648","$4,008,536",1987,1989,2
+687,The Other Side of Heaven,https://www.the-numbers.com/movies/franchise/Other-Side-of-Heaven-The,2,"$6,527,487","$10,917,413","$6,527,487",The Other Side of Heaven,2,"$6,527,487","$10,917,413","$6,527,487",2001,2019,18
+691,Cities of Love,https://www.the-numbers.com/movies/franchise/Cities-of-Love,3,"$6,445,461","$9,893,420","$15,016,261",Cities of Love,3,"$6,445,461","$9,893,420","$15,016,261",2007,2019,12
+698,The Snowman,https://www.the-numbers.com/movies/franchise/Snowman-The,2,"$6,670,765","$8,016,816","$43,215,978",The Snowman,2,"$6,670,765","$8,016,816","$43,215,978",2017,2018,1
+703,In The Name of the King,https://www.the-numbers.com/movies/franchise/In-The-Name-of-the-King,3,"$4,775,656","$7,170,134","$13,233,220",In The Name of the King,3,"$4,775,656","$7,170,134","$13,233,220",2008,2014,6
+710,"Food, Inc.",https://www.the-numbers.com/movies/franchise/Food-Inc,2,"$4,444,176","$6,376,170","$4,758,446","Food, Inc.",2,"$4,444,176","$6,376,170","$4,758,446",2009,2024,15
+727,DC Animated Movie Universe,https://www.the-numbers.com/movies/franchise/DC-Animated-Movie-Universe,42,"$3,775,000","$4,704,564","$4,472,889",DC Animated Movie Universe,42,"$3,775,000","$4,704,564","$4,472,889",2007,2023,16
+735,Trois,https://www.the-numbers.com/movies/franchise/Trois,2,"$2,043,793","$3,960,065","$2,043,793",Trois,2,"$2,043,793","$3,960,065","$2,043,793",2000,2002,2
+736,BloodRayne,https://www.the-numbers.com/movies/franchise/BloodRayne,2,"$2,405,420","$3,958,836","$3,711,633",BloodRayne,2,"$2,405,420","$3,958,836","$3,711,633",2006,2011,5
+738,Penitentiary,https://www.the-numbers.com/movies/franchise/Penitentiary,2,"$949,896","$3,580,739","$949,896",Penitentiary,2,"$949,896","$3,580,739","$949,896",1980,1982,2
+742,Vengeance Trilogy,https://www.the-numbers.com/movies/franchise/Vengeance-Trilogy,3,"$2,715,020","$3,364,784","$31,508,583",Vengeance Trilogy,3,"$2,715,020","$3,364,784","$31,508,583",2003,2006,3
+752,USA - Land of Opportunities,https://www.the-numbers.com/movies/franchise/USA-Land-of-Opportunities,3,"$1,604,591","$2,778,729","$15,394,960",USA - Land of Opportunities,3,"$1,604,591","$2,778,729","$15,394,960",2004,2009,5
+755,Donnie Darko,https://www.the-numbers.com/movies/franchise/Donnie-Darko,2,"$1,480,006","$2,539,887","$8,548,391",Donnie Darko,2,"$1,480,006","$2,539,887","$8,548,391",2001,2009,8
+760,The True North Trilogy,https://www.the-numbers.com/movies/franchise/True-North-Trilogy-The,2,"$1,821,983","$2,404,026","$1,926,321",The True North Trilogy,2,"$1,821,983","$2,404,026","$1,926,321",2014,2016,2
+762,Saints and Soldiers,https://www.the-numbers.com/movies/franchise/Saints-and-Soldiers,2,"$1,310,470","$2,265,676","$1,310,470",Saints and Soldiers,2,"$1,310,470","$2,265,676","$1,310,470",2004,2014,10
+764,Banlieue 13,https://www.the-numbers.com/movies/franchise/Banlieue-13,2,"$1,236,352","$2,024,678","$20,386,278",Banlieue 13,2,"$1,236,352","$2,024,678","$20,386,278",2006,2010,4
+767,Visiteurs,https://www.the-numbers.com/movies/franchise/Visiteurs,2,"$805,072","$1,942,987","$124,900,072",Visiteurs,2,"$805,072","$1,942,987","$124,900,072",1996,1998,2
+776,Epic Stories of the Bible,https://www.the-numbers.com/movies/franchise/Epic-Stories-of-the-Bible,1,"$952,820","$1,492,933","$1,051,907",Epic Stories of the Bible,1,"$952,820","$1,492,933","$1,051,907",2007,2007,
+779,Taxi,https://www.the-numbers.com/movies/franchise/Taxi,5,"$729,844","$1,459,450","$103,552,731",Taxi,5,"$729,844","$1,459,450","$103,552,731",1998,2018,20
+789,Cube,https://www.the-numbers.com/movies/franchise/Cube,1,"$489,220","$1,124,473","$8,969,065",Cube,1,"$489,220","$1,124,473","$8,969,065",1998,1998,
+823,Hatchet,https://www.the-numbers.com/movies/franchise/Hatchet,4,"$237,281","$359,340","$302,396",Hatchet,4,"$237,281","$359,340","$302,396",2007,2017,10
+832,Monsters,https://www.the-numbers.com/movies/franchise/Monsters,2,"$237,301","$324,219","$5,692,480",Monsters,2,"$237,301","$324,219","$5,692,480",2010,2015,5
+858,I Spit on Your Grave,https://www.the-numbers.com/movies/franchise/I-Spit-on-Your-Grave,5,"$93,861","$128,196","$2,112,963",I Spit on Your Grave,5,"$93,861","$128,196","$2,112,963",1978,2019,41
+865,Dod sno,https://www.the-numbers.com/movies/franchise/Dod-sno,2,"$79,359","$110,215","$2,226,637",Dod sno,2,"$79,359","$110,215","$2,226,637",2009,2014,5
+866,Feast,https://www.the-numbers.com/movies/franchise/Feast,3,"$56,131","$92,374","$690,872",Feast,3,"$56,131","$92,374","$690,872",2006,2009,3
+873,The Toxic Avenger,https://www.the-numbers.com/movies/franchise/Toxic-Avenger-The,3,"$28,950","$78,209","$28,950",The Toxic Avenger,3,"$28,950","$78,209","$28,950",1986,2022,36
+881,Stake Land,https://www.the-numbers.com/movies/franchise/Stake-Land,2,"$33,245","$45,190","$714,234",Stake Land,2,"$33,245","$45,190","$714,234",2011,2017,6
+910,Detective Conan,https://www.the-numbers.com/movies/franchise/Detective-Conan,9,$0,$0,"$446,591,352",Detective Conan,9,$0,$0,"$446,591,352",2007,2023,16
+911,Doraemon,https://www.the-numbers.com/movies/franchise/Doraemon,9,$0,$0,"$497,089,395",Doraemon,9,$0,$0,"$497,089,395",2007,2020,13
+912,Air Buddies,https://www.the-numbers.com/movies/franchise/Air-Buddies,9,$0,$0,$0,Air Buddies,9,$0,$0,$0,2006,2013,7
+931,DC Universe,https://www.the-numbers.com/movies/franchise/DC-Universe,5,$0,$0,$0,DC Universe,5,$0,$0,$0,2023,2026,3
+984,Belle et Sebastien,https://www.the-numbers.com/movies/franchise/Belle-et-Sebastien,3,$0,$0,"$61,486,234",Belle et Sebastien,3,$0,$0,"$61,486,234",2013,2018,5
+1004,Alligator,https://www.the-numbers.com/movies/franchise/Alligator,2,$0,$0,$0,Alligator,2,$0,$0,$0,1980,1991,11
+1005,Happy Family,https://www.the-numbers.com/movies/franchise/Happy-Family,2,$0,$0,"$35,187,080",Happy Family,2,$0,$0,"$35,187,080",2017,2021,4
+1052,Grizzly,https://www.the-numbers.com/movies/franchise/Grizzly,2,$0,$0,$0,Grizzly,2,$0,$0,$0,1976,2021,45
+1090,A Few Best Men,https://www.the-numbers.com/movies/franchise/Few-Best-Men-A,2,$0,$0,"$17,500,139",A Few Best Men,2,$0,$0,"$17,500,139",2012,2017,5
+1131,Fortress (2021 Trilogy),https://www.the-numbers.com/movies/franchise/Fortress-(2021-Trilogy),2,$0,$0,"$19,403",Fortress (2021 Trilogy),2,$0,$0,"$19,403",2021,2022,1
+1133,Terror Train,https://www.the-numbers.com/movies/franchise/Terror-Train,2,$0,$0,$0,Terror Train,2,$0,$0,$0,2022,2022,
+1186,Extraction,https://www.the-numbers.com/movies/franchise/Extraction,2,$0,$0,$0,Extraction,2,$0,$0,$0,2020,2023,3
+1222,Teen Beach Movie,https://www.the-numbers.com/movies/franchise/Teen-Beach-Movie,2,$0,$0,$0,Teen Beach Movie,2,$0,$0,$0,2013,2015,2
+1299,Ironclad,https://www.the-numbers.com/movies/franchise/Ironclad,1,$0,$0,"$5,297,411",Ironclad,1,$0,$0,"$5,297,411",2011,2011,
